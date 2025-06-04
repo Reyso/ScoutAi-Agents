@@ -1,0 +1,908 @@
+id,name,cname,role,positionId,rating,goals,assists,rcards,ycards,positionIdsDesc,height,age,transferValue,team_id
+13308,Joao Carlos,Brazil,keeper_long,0,6.24,0,0,0,0,GK,190.0,37,150000,8355
+19402,Fernando Miguel,Brazil,keeper_long,0,7.28,0,0,0,0,GK,191.0,40,130000,172341
+19533,Neymar,Brazil,midfielder_long,2,6.4,0,0,1,2,CAM,175.0,33,14000000,8514
+20276,Hulk,Brazil,attacker_long,3,7.04,1,2,0,3,"ST,RW,CAM",180.0,38,2500000,10272
+20446,Fagner,Brazil,defender_long,1,7.26,0,0,0,1,"RB,RWB",168.0,35,400000,9781
+25496,Dimitri Payet,France,midfielder_long,2,7.02,0,2,0,0,CAM,175.0,38,1900000,10276
+27303,Rafinha,Brazil,defender_long,1,5.1,0,0,0,0,"RB,LB",171.0,39,250000,10277
+30441,Fabio,Brazil,keeper_long,0,6.81,0,0,0,1,GK,190.0,44,250000,9863
+32331,Thiago Heleno,Brazil,defender_long,1,5.1,0,0,0,0,CB,185.0,36,820000,10273
+33101,José Paolo Guerrero,Peru,attacker_long,3,5.1,5,0,1,1,ST,185.0,41,150000,6398
+37429,Nene,Brazil,midfielder_long,2,6.53,0,0,0,0,"CM,LM,CAM",181.0,43,250000,10274
+40819,Vágner Love,Brazil,attacker_long,3,5.93,0,0,0,0,ST,171.0,40,300000,104822
+42481,Vladimir,Brazil,keeper_long,0,6.61,0,0,0,3,GK,191.0,35,230000,165545
+47041,Luiz Adriano,Brazil,attacker_long,3,5.1,0,0,0,0,ST,182.0,38,400000,7733
+52133,David Luiz,Brazil,defender_long,1,6.8,0,0,0,1,CB,189.0,38,350000,8287
+52243,Tomas Rincon,Venezuela,midfielder_long,2,6.68,0,0,0,2,"CDM,CM",175.0,37,400000,8514
+78911,Titi,Brazil,defender_long,1,6.71,0,0,1,1,CB,187.0,37,250000,8287
+80562,Thiago Silva,Brazil,defender_long,1,6.87,0,0,0,0,CB,183.0,40,1000000,9863
+92935,Alan Kardec,Brazil,attacker_long,3,6.18,2,0,0,0,ST,185.0,36,350000,10273
+96481,Marcelo Moreno,Bolivia,attacker_long,3,5.1,0,0,0,0,ST,187.0,37,355000,9781
+97491,Geromel,Brazil,defender_long,1,5.1,0,0,0,0,CB,190.0,39,250000,9769
+97658,Ytalo,Brazil,attacker_long,3,6.08,0,1,0,0,ST,181.0,37,350000,1626
+98563,Willian Bigode,Brazil,attacker_long,3,6.78,2,1,0,0,"ST,RW",171.0,38,250000,1757
+101103,Fernando,Brazil,midfielder_long,2,6.76,0,0,0,0,"CDM,CB,CM",183.0,37,2300000,8702
+101584,Cassio,Brazil,keeper_long,0,7.35,0,0,0,2,GK,195.0,37,650000,9781
+106309,Carlos Zambrano,Peru,defender_long,1,5.1,0,0,1,1,CB,185.0,35,50000,6398
+106444,Giuliano,Brazil,midfielder_long,2,6.82,2,0,0,0,CM,172.0,35,900000,10273
+113608,Diego Churin,Argentina,attacker_long,3,5.1,3,0,1,0,ST,186.0,35,440000,4409
+113616,German Cano,Argentina,attacker_long,3,6.46,1,0,0,1,ST,176.0,37,1900000,9863
+113622,Miguel Angel Torren,Argentina,defender_long,1,5.1,0,0,0,0,CB,179.0,36,150000,5983
+113668,Gabriel Mercado,Argentina,defender_long,1,5.1,0,0,0,0,CB,181.0,38,300000,8702
+114056,Patricio Rodriguez,Argentina,attacker_long,3,5.1,4,0,0,0,LW,170.0,35,250000,5983
+114971,Paulinho,Brazil,midfielder_long,2,5.1,0,0,0,0,CM,181.0,36,600000,9808
+115871,Martin Cauteruccio,Uruguay,attacker_long,3,5.1,5,1,0,0,ST,179.0,38,250000,1848
+116911,Yoshimar Yotun,Peru,midfielder_long,2,5.1,0,0,0,0,CM,172.0,35,2700000,1848
+118213,Aldo Corzo,Peru,defender_long,1,5.1,0,0,0,2,CB,172.0,36,400000,4409
+122023,Marcelo Lomba,Brazil,keeper_long,0,5.1,0,0,0,0,GK,187.0,38,350000,10283
+122047,Mariano,Brazil,defender_long,1,6.8,0,1,0,2,"RB,CB",177.0,38,400000,1757
+124130,Leo Vieira,Brazil,keeper_long,0,7.38,0,0,0,0,GK,193.0,34,150000,197693
+127268,Pablo Damian Lavandeira,Uruguay,midfielder_long,2,5.1,1,0,1,0,"CM,ST,CAM,CDM",173.0,35,550000,6398
+127400,Ganso,Brazil,midfielder_long,2,6.61,0,0,0,1,"CAM,CM,LM",182.0,35,600000,9863
+127821,Alex Teixeira,Brazil,attacker_long,3,6.09,0,0,0,1,CAM,173.0,35,600000,10276
+127892,Rafael,Brazil,keeper_long,0,7.13,0,0,0,2,GK,192.0,35,800000,10277
+128033,David Braz,Brazil,defender_long,1,5.1,0,0,0,0,CB,187.0,38,120000,163782
+128083,Vagner,Brazil,keeper_long,0,5.1,0,0,0,0,GK,185.0,38,500000,197429
+128795,Souza,Brazil,defender_long,1,5.1,0,0,0,0,CB,176.0,36,300000,10276
+128862,Wellington,Brazil,midfielder_long,2,5.1,0,0,0,0,CM,173.0,34,500000,9862
+128864,Oscar,Brazil,midfielder_long,2,6.71,0,0,0,1,"CAM,LW,CDM",179.0,33,5000000,10277
+141762,Carlos Lampe,Bolivia,keeper_long,0,5.1,0,0,0,0,GK,192.0,38,85000,5983
+146810,Horacio Calcaterra,Peru,midfielder_long,2,5.1,0,1,0,2,"CM,CAM",178.0,36,400000,4409
+147729,Luiz Gustavo,Brazil,midfielder_long,2,7.46,0,0,0,0,"CDM,RM,CM",187.0,37,350000,10277
+150041,Maicon,Brazil,defender_long,1,6.82,0,0,0,1,CB,190.0,36,300000,9767
+150176,Fabio,Brazil,defender_long,1,5.1,0,0,0,0,RB,172.0,34,1300000,9769
+150316,Michel,Brazil,defender_long,1,5.1,0,0,0,0,RB,182.0,35,1200000,6546
+157865,Alex Sandro,Brazil,defender_long,1,7.3,0,0,0,1,"LB,CB",180.0,34,2300000,9770
+160194,Yannick Bolasie,DR Congo,attacker_long,3,6.16,0,0,0,0,"ST,RW,LW",188.0,36,200000,9781
+160627,Cédric Soares,Portugal,defender_long,1,6.65,0,1,0,1,"RB,RWB,RW",172.0,33,1300000,10277
+163824,Josué,Portugal,midfielder_long,2,7.54,2,3,0,3,"CM,CAM,LM",176.0,34,650000,9767
+163835,Sérgio Oliveira,Portugal,midfielder_long,2,6.9,1,0,0,3,"CAM,CM,CDM",181.0,33,2500000,6305
+166121,Pablo Cepellini,Uruguay,midfielder_long,2,5.1,0,1,0,0,"CAM,ST",180.0,33,450000,6398
+166872,Fabricio,Brazil,defender_long,1,7.18,0,0,0,3,CB,187.0,35,650000,198135
+169865,Martin Braithwaite,Denmark,attacker_long,3,6.99,3,1,0,2,ST,179.0,33,3200000,9769
+170166,Denis,Brazil,keeper_long,0,5.1,0,0,0,0,GK,188.0,38,700000,6305
+171876,Ralf,Brazil,midfielder_long,2,5.1,0,0,0,0,"CM,CB",180.0,40,800000,109706
+171929,Marcos Rocha,Brazil,defender_long,1,5.1,0,0,0,0,"RB,CB",176.0,36,400000,10283
+171983,Danilo Fernandes,Brazil,keeper_long,0,5.1,0,0,0,0,GK,189.0,37,350000,7877
+172169,Willian Farias,Brazil,midfielder_long,2,6.74,0,0,0,0,"CM,CDM",176.0,35,250000,581838
+172185,Alan Patrick,Brazil,midfielder_long,2,7.59,2,4,0,3,"CAM,ST,CM",175.0,34,4500000,8702
+172213,Geovane,Brazil,midfielder_long,2,6.23,0,0,0,1,CM,179.0,36,600000,9767
+172440,Ricardo Goulart,China,midfielder_long,2,5.1,0,0,0,0,CAM,178.0,33,3500000,7877
+172568,Gil,Brazil,defender_long,1,6.73,0,0,0,2,CB,188.0,37,350000,8514
+174062,Carlos Eduardo,Brazil,midfielder_long,2,6.27,0,0,0,1,"CM,CAM,ST,CDM,RW,LM",185.0,35,1000000,9781
+174066,Manoel Messias,Brazil,defender_long,1,5.1,0,0,0,0,CB,181.0,35,300000,9863
+174531,Dudu,Brazil,attacker_long,3,6.16,1,0,0,0,"LW,RW,ST",165.0,33,3500000,10272
+174853,Fransergio,Brazil,midfielder_long,2,6.3,0,0,1,3,"CM,CDM",187.0,34,950000,197429
+175644,Marquinhos,Brazil,midfielder_long,2,7.41,0,0,0,2,"LM,CM",174.0,34,500000,104822
+177874,Dodo,Brazil,defender_long,1,5.1,0,0,0,0,CB,179.0,33,850000,8514
+178056,Anselmo,Brazil,attacker_long,3,7.12,3,0,0,1,"ST,LW",182.0,36,440000,9862
+179083,Willian José,Brazil,attacker_long,3,6.73,2,0,0,0,ST,186.0,33,2200000,7877
+184500,Rodrigo Moledo,Brazil,defender_long,1,5.1,0,0,0,0,CB,188.0,37,550000,9767
+184536,Philippe Coutinho,Brazil,midfielder_long,2,6.89,0,1,1,0,"CAM,LW,ST,CM",172.0,32,8000000,10276
+186116,Osvaldo,Brazil,attacker_long,3,6.85,0,1,0,1,"LW,ST",170.0,38,900000,7733
+187320,Paulao,Brazil,defender_long,1,5.1,0,0,0,0,CB,187.0,39,450000,6546
+188652,Allan,Brazil,midfielder_long,2,6.54,0,0,0,1,"CDM,CM",173.0,34,4000000,8517
+188950,Ricardinho,Brazil,midfielder_long,2,6.66,0,0,0,2,"CDM,CM",174.0,36,1500000,581832
+195927,Enner Valencia,Ecuador,attacker_long,3,6.38,1,0,0,0,ST,177.0,35,3000000,8702
+198053,Walter Kannemann,Argentina,defender_long,1,7.54,0,0,0,1,CB,183.0,34,1100000,9769
+200257,Fernando Gaibor,Ecuador,midfielder_long,2,5.1,0,2,0,1,"CM,CAM,CDM",178.0,33,1500000,6398
+201788,Lucas Mugni,Argentina,midfielder_long,2,7.3,1,3,0,2,"CM,CAM",181.0,33,350000,172341
+202227,Lucas Sasha,Brazil,midfielder_long,2,6.87,0,0,0,0,"CM,CDM",172.0,35,500000,8287
+202332,Luciano Castan da Silva,Brazil,defender_long,1,7.05,0,0,0,4,CB,187.0,35,300000,7729
+202486,Giovanni Augusto,Brazil,midfielder_long,2,7.14,0,2,0,0,"CAM,LM,CM",175.0,35,850000,197693
+206856,Jorge Benitez,Paraguay,attacker_long,3,6.43,1,0,0,1,ST,182.0,32,330000,6546
+207102,Raul Caceres,Paraguay,defender_long,1,6.6,0,0,0,1,"RB,RWB",180.0,33,300000,7733
+207520,Gustavo Cuellar,Colombia,midfielder_long,2,6.66,0,0,0,0,"CDM,CB",176.0,32,3300000,9769
+207642,Santiago Arias,Colombia,defender_long,1,6.34,0,0,0,1,RB,177.0,33,3000000,7877
+208077,Danilo,Brazil,defender_long,1,7.26,1,0,0,0,"CB,RB,LB",184.0,33,3500000,9770
+211074,Julio Cesar Furch,Argentina,attacker_long,3,5.1,0,0,0,0,ST,179.0,35,750000,8514
+214452,Pablo,Brazil,defender_long,1,5.1,0,0,0,0,CB,188.0,33,2000000,9770
+215051,Eduardo Sasha,Brazil,attacker_long,3,7.08,2,1,0,1,"ST,CAM",173.0,33,2000000,109705
+215299,Lucas Moura,Brazil,attacker_long,3,6.39,0,0,0,0,"RW,LW,CAM,ST",172.0,32,5500000,10277
+215424,Cristian Jonatan Ortiz,Argentina,midfielder_long,2,6.36,0,0,0,0,"CM,LM,ST,LW",169.0,32,650000,6305
+228982,Bruno Uvini,Brazil,defender_long,1,5.1,0,0,0,0,CB,187.0,34,600000,7733
+230190,Felipe Anderson,Brazil,attacker_long,3,6.86,0,0,0,0,"LW,RW,RWB,CAM,RM",178.0,32,10000000,10283
+231683,Diogo Barbosa,Brazil,defender_long,1,6.9,1,0,0,0,"LB,LWB,LW",179.0,32,400000,8287
+239279,Jean,Brazil,midfielder_long,2,6.17,0,0,0,1,"CAM,ST",178.0,33,650000,10274
+244004,Wilker Angel,Venezuela,defender_long,1,5.98,0,0,0,2,CB,190.0,32,2100000,10274
+244963,Rodrigo Ely,Brazil,defender_long,1,6.11,0,0,0,0,CB,188.0,31,2500000,9769
+246414,André Carrillo,Peru,midfielder_long,2,6.87,0,0,0,0,"CDM,CM,RW,RM",182.0,33,1300000,9808
+248704,Miguel Trauco,Peru,defender_long,1,5.1,0,0,0,1,"LB,LWB",169.0,32,2200000,6398
+251244,Andre Ramalho Silva,Brazil,defender_long,1,6.92,0,0,0,2,CB,182.0,33,2700000,9808
+263619,Andy Polo,Peru,midfielder_long,2,5.1,1,2,0,0,"RM,RWB,CAM",174.0,30,950000,4409
+263685,Igor Coronado,Brazil,midfielder_long,2,6.8,1,0,0,1,"CAM,CM,LW,RW",173.0,32,3500000,9808
+263933,Gabriel,Brazil,midfielder_long,2,7.07,3,0,0,1,"CM,CAM,ST,LW,RW",178.0,35,900000,163782
+263937,Éverton Ribeiro,Brazil,midfielder_long,2,6.87,1,0,0,1,"CM,RW,CDM,CAM",179.0,36,2800000,7877
+263948,Bruno Alves,Brazil,defender_long,1,7.24,1,0,0,1,CB,184.0,34,850000,197815
+265116,Bernard,Brazil,midfielder_long,2,6.53,0,0,0,1,"CM,LM,LW,CAM,RW",168.0,32,3000000,10272
+265273,Gabriel,Brazil,keeper_long,0,5.72,0,0,0,0,GK,193.0,32,1300000,7733
+265435,Aderbar Santos,Brazil,keeper_long,0,5.1,0,0,0,0,GK,188.0,35,850000,10273
+265619,Gilberto,Brazil,attacker_long,3,6.11,0,1,0,3,ST,178.0,35,600000,10274
+265996,Angel Romero,Paraguay,attacker_long,3,6.51,0,1,0,2,"ST,RW,LW,LM",177.0,32,1800000,9808
+267379,Leo Cittadini,Brazil,midfielder_long,2,5.1,0,0,0,0,"CDM,CM,LM",178.0,31,1400000,7877
+267826,Weverton,Brazil,keeper_long,0,7.35,0,0,0,1,GK,189.0,37,3000000,10283
+268055,Lucca,Brazil,attacker_long,3,6.03,0,0,0,0,LW,178.0,35,650000,581838
+268068,Nicolas,Brazil,attacker_long,3,6.37,0,0,0,0,"ST,LW",180.0,35,450000,6546
+268171,Everson,Brazil,keeper_long,0,7.28,0,0,0,2,GK,192.0,34,1800000,10272
+268214,Leo Gamalho,Brazil,attacker_long,3,5.1,0,0,0,0,ST,188.0,39,200000,163782
+268225,Thomazella,Brazil,keeper_long,0,5.1,0,0,0,0,GK,191.0,34,30000,163782
+268249,Thiago Rodrigues,Brazil,keeper_long,0,5.1,0,0,0,1,GK,190.0,36,330000,9862
+268392,Maia,Brazil,defender_long,1,6.62,0,0,0,2,CB,189.0,33,600000,109706
+268394,Edenilson,Brazil,midfielder_long,2,6.4,1,0,0,3,"CAM,RW,CM,ST",175.0,35,1300000,9769
+274098,Dener Clemente,Brazil,midfielder_long,2,6.45,0,0,0,0,CM,185.0,33,550000,198135
+274392,Gustavo Gomez,Paraguay,defender_long,1,7.14,0,0,0,3,CB,186.0,32,8000000,10283
+274394,Oscar Ruiz,Paraguay,attacker_long,3,7.92,1,2,0,0,LW,175.0,34,550000,581838
+274528,Oscar Romero,Paraguay,midfielder_long,2,6.49,0,1,0,1,"CM,CAM",176.0,32,2000000,8702
+278723,Dellatorre,Brazil,attacker_long,3,6.15,0,0,0,0,"ST,LW",182.0,33,700000,9767
+281240,Gonzalo Mastriani,Uruguay,attacker_long,3,6.26,0,0,0,1,ST,180.0,32,1800000,8517
+282156,Daniel Giraldo,Colombia,midfielder_long,2,6.48,0,0,0,2,"CM,CDM,CB",178.0,32,850000,10274
+282514,Leonel Justiniano,Bolivia,midfielder_long,2,5.1,3,0,0,0,"CDM,CM",172.0,32,250000,5983
+287902,Pablo,Brazil,attacker_long,3,6.43,1,0,0,1,ST,185.0,32,800000,6305
+288782,William Pottker,Brazil,attacker_long,3,6.37,0,0,0,3,"ST,RW",182.0,31,1800000,165545
+295103,Everaldo,Brazil,attacker_long,3,6.51,1,0,0,1,"ST,RW",181.0,33,800000,9863
+298229,Martin Nicolas Benitez,Argentina,midfielder_long,2,6.04,0,0,0,1,"CAM,CM",173.0,30,1800000,9862
+303799,Bastos,Angola,defender_long,1,5.1,0,0,0,0,CB,180.0,33,1600000,8517
+303824,Memphis Depay,Netherlands,attacker_long,3,7.19,3,3,0,2,"ST,LW,CAM",176.0,31,11000000,9808
+304014,Fernando Marcal,Brazil,defender_long,1,6.56,0,0,0,2,LB,178.0,36,450000,8517
+304626,Pedro Castro,Brazil,midfielder_long,2,6.89,0,2,0,0,CM,180.0,32,720000,1626
+304856,Pedro Henrique,Brazil,attacker_long,3,6.84,1,0,0,1,"LW,ST",179.0,34,800000,172341
+304875,Rodrigo Urena,Chile,midfielder_long,2,5.1,0,1,0,2,"CM,CDM",177.0,32,900000,4409
+304879,Rossi,Brazil,attacker_long,3,7.12,1,1,0,1,"LW,RW",170.0,32,900000,6546
+304886,Cicinho,Bulgaria,midfielder_long,2,5.1,0,0,0,0,"RB,RM,RWB",168.0,36,250000,7877
+305454,Jean Mota,Brazil,midfielder_long,2,7.2,0,1,0,0,"CM,LW,RW",172.0,31,1200000,109706
+305846,Jonathan Cafu,Brazil,attacker_long,3,6.63,2,0,0,2,"RW,RM",174.0,33,400000,8355
+306512,Reinaldo,Brazil,defender_long,1,7.53,6,2,0,2,"LB,LM",178.0,35,450000,163782
+307070,Vitor Hugo,Brazil,defender_long,1,6.88,0,0,0,0,CB,187.0,34,1000000,10272
+307072,Samuel Xavier,Brazil,defender_long,1,6.96,1,1,0,2,RB,166.0,34,500000,9863
+309693,Guillermo Fernandez,Argentina,midfielder_long,2,6.71,0,2,0,1,"CM,CDM",180.0,33,1500000,8287
+315926,Edison Flores,Peru,attacker_long,3,5.1,4,1,0,1,ST,170.0,31,1500000,4409
+319589,Gabriel,Brazil,midfielder_long,2,7.22,1,0,0,2,"CDM,CM",172.0,32,2000000,109705
+319591,Jadson,Brazil,midfielder_long,2,6.71,0,1,0,3,"CDM,CM,RM",171.0,31,1000000,10274
+319637,Rene,Brazil,defender_long,1,7.28,1,0,0,0,LB,174.0,32,900000,9863
+319653,Wellington Silva,Brazil,defender_long,1,6.42,0,0,0,1,"RB,RWB",177.0,37,450000,198135
+319659,Marllon,Brazil,defender_long,1,7.0,2,0,0,0,CB,184.0,33,500000,172341
+319796,Ze Rafael,Brazil,midfielder_long,2,7.36,0,0,0,1,"CM,CDM",175.0,31,4200000,8514
+319812,Antonio Carlos,Brazil,defender_long,1,6.66,0,0,0,0,CB,191.0,32,1200000,6305
+319972,Bruno,Brazil,keeper_long,0,6.92,0,0,0,1,GK,195.0,31,100000,172341
+320531,Giovanni Piccolomo,Brazil,midfielder_long,2,6.21,0,0,0,1,"CM,LM,RW",173.0,31,550000,6546
+323352,Gustavo Henrique,Brazil,defender_long,1,6.79,0,0,0,0,CB,193.0,32,2500000,9808
+323400,Rafael Silva,Brazil,attacker_long,3,5.1,0,0,0,0,ST,179.0,33,400000,163782
+331759,Richardson,Brazil,midfielder_long,2,5.1,0,0,0,0,CM,173.0,33,300000,172341
+335606,Erick Pulgar,Chile,midfielder_long,2,7.22,1,0,0,2,"CDM,CM",186.0,31,5500000,9770
+336991,Sassa,Brazil,attacker_long,3,5.99,0,0,0,1,"ST,LW",174.0,31,710000,7729
+339125,Marinho,Brazil,attacker_long,3,6.57,0,2,1,0,"RW,ST",168.0,35,800000,8287
+342941,Robert Arboleda,Ecuador,defender_long,1,7.12,1,0,0,1,CB,189.0,33,1700000,10277
+343431,Sebastian Britos,Uruguay,keeper_long,0,5.1,0,0,0,1,GK,190.0,37,130000,4409
+345905,Joao Schmidt,Brazil,midfielder_long,2,6.67,0,0,0,2,"CDM,CM",182.0,32,1300000,8514
+346004,Lucas Silva,Brazil,midfielder_long,2,7.15,1,2,0,1,"CDM,CM",182.0,32,850000,9781
+360697,Lucas Lima,Brazil,midfielder_long,2,6.84,0,2,0,4,"CM,CAM,RW,RM",174.0,34,600000,6305
+361077,Federico Lanzillotta,Argentina,keeper_long,0,5.1,0,0,0,0,GK,185.0,32,550000,5983
+361326,Tobias Figueiredo,Portugal,defender_long,1,6.36,0,0,0,2,CB,182.0,31,1700000,10273
+384587,Lucas Villalba,Argentina,defender_long,1,7.41,0,0,0,3,CB,181.0,30,2000000,9781
+387499,Gilberto Junior,Brazil,defender_long,1,7.09,1,0,0,2,RB,181.0,32,3700000,7877
+388503,Victor Luis,Brazil,defender_long,1,6.94,0,0,0,0,LB,180.0,31,800000,10276
+388504,Diogo,Brazil,defender_long,1,6.47,0,0,0,1,RB,172.0,32,1000000,197429
+388514,Goncalo Paciencia,Portugal,attacker_long,3,6.14,0,0,0,0,ST,184.0,30,1000000,6305
+388605,Lucas Daniel Romero,Argentina,midfielder_long,2,7.28,1,1,0,3,"CDM,CM",185.0,31,3300000,9781
+389202,Wanderson,Belgium,attacker_long,3,6.81,0,0,0,1,"LW,RW",175.0,30,6500000,9781
+389888,Gabriel Costa,Peru,attacker_long,3,5.1,0,1,0,1,"ST,CM",170.0,35,350000,4409
+399130,Luciano Neves,Brazil,midfielder_long,2,6.72,1,0,0,2,CAM,178.0,32,3000000,10277
+409017,Tiago Volpi,Brazil,keeper_long,0,7.07,0,0,0,2,GK,189.0,34,1200000,9769
+414440,Nicolás Pasquini,Argentina,defender_long,1,5.1,0,0,1,2,"LB,LM,CB",176.0,34,400000,1848
+426353,Leonel Di Placido,Argentina,defender_long,1,5.1,0,0,0,0,RB,176.0,31,500000,6305
+427877,Fabricio Angileri,Argentina,defender_long,1,6.74,0,0,0,1,LB,185.0,31,750000,9808
+428274,Christopher Gonzáles,Peru,midfielder_long,2,5.1,3,1,0,2,"CAM,LW,CM,RM,LM,RW",176.0,32,550000,1848
+428672,Alex Telles,Brazil,defender_long,1,6.86,1,0,0,1,LB,181.0,32,7000000,8517
+429753,Carlos De Pena,Uruguay,midfielder_long,2,6.46,1,0,0,1,CM,177.0,33,2300000,9767
+433819,Renzo Saravia,Argentina,defender_long,1,6.22,0,0,0,0,"RB,CB,RM",178.0,31,3000000,10272
+438647,Giorgian De Arrascaeta,Uruguay,midfielder_long,2,8.42,9,4,0,0,"CAM,CM",177.0,31,15000000,9770
+441399,Yamil Asad,Argentina,defender_long,1,5.1,0,0,0,0,LWB,177.0,30,720000,197815
+444778,Pablo Dyego,Brazil,midfielder_long,2,6.73,2,0,0,1,"RW,CAM,LW,RM",174.0,31,450000,581838
+449666,Jemerson,Brazil,defender_long,1,7.03,1,0,0,3,CB,184.0,32,1500000,9769
+449684,Alisson,Brazil,midfielder_long,2,6.89,0,0,0,3,CDM,174.0,31,1300000,10277
+449785,Walter,Brazil,keeper_long,0,8.06,0,0,0,1,GK,188.0,37,300000,163782
+449837,Arthur Caike,Brazil,attacker_long,3,6.91,2,1,0,0,ST,174.0,32,1000000,9862
+450001,Mayke,Brazil,defender_long,1,6.58,0,0,0,1,"RB,RWB,RM",178.0,32,3500000,10283
+450848,Gabriel Barbosa,Brazil,attacker_long,3,6.77,2,2,0,0,"ST,CAM",176.0,28,7000000,9781
+450868,Willian,Brazil,midfielder_long,2,6.47,0,0,0,1,"CM,CDM",184.0,32,800000,7733
+452019,Juninho,Brazil,midfielder_long,2,6.88,0,1,0,0,"CM,CAM,CDM,LM",173.0,37,350000,9862
+452269,Lucas Evangelista,Brazil,midfielder_long,2,6.46,0,1,0,0,"CDM,CM,CAM",181.0,30,3500000,10283
+458861,Eryc Castillo,Ecuador,attacker_long,3,5.1,2,2,0,2,"RW,RM",178.0,30,1800000,6398
+465614,Guillermo Varela,Uruguay,defender_long,1,7.25,0,2,0,0,"RB,LB",173.0,32,2200000,9770
+466214,Junior Alonso,Paraguay,defender_long,1,7.13,0,1,0,2,"CB,LB",185.0,32,8500000,10272
+466692,Jorge Recalde,Paraguay,midfielder_long,2,5.1,0,0,0,0,CM,178.0,33,600000,172341
+467733,Alex Muralha,Brazil,keeper_long,0,6.7,0,0,0,2,GK,189.0,35,200000,163782
+469295,Jonathan Calleri,Argentina,attacker_long,3,5.78,0,0,1,0,ST,181.0,31,4500000,10277
+476769,Deyverson,Brazil,attacker_long,3,6.53,1,0,0,1,ST,189.0,34,750000,8287
+477205,Sandro Lima,Brazil,attacker_long,3,6.68,2,1,0,1,"ST,CAM",186.0,34,1000000,165545
+478416,Diego Goncalves,Brazil,attacker_long,3,6.93,3,1,0,1,"LW,RW,ST,LM",182.0,30,520000,7729
+486453,Juan Dinenno,Argentina,attacker_long,3,5.98,0,0,0,0,ST,185.0,30,4200000,9781
+487867,Wendell,Brazil,defender_long,1,6.73,0,0,0,0,"LB,LWB",176.0,31,4500000,10277
+489710,Pedrao,Brazil,defender_long,1,6.66,0,0,0,0,CB,190.0,32,1500000,165545
+493553,Danielzinho,Brazil,midfielder_long,2,7.29,0,1,0,1,"CM,CDM",166.0,30,750000,163782
+493691,Guillermo Viscarra,Bolivia,keeper_long,0,5.1,0,0,0,0,GK,190.0,32,600000,6398
+493725,Lucao,Brazil,defender_long,1,6.97,0,0,0,0,CB,185.0,29,450000,1757
+494029,Dodo,Brazil,midfielder_long,2,6.32,0,0,0,1,CM,171.0,30,700000,1626
+494241,Alex Santana,Brazil,midfielder_long,2,6.3,0,0,0,0,"CDM,CM",182.0,30,2200000,9808
+495833,Yeferson Soteldo,Venezuela,attacker_long,3,6.67,0,0,0,1,"LW,RW,CAM,LM",160.0,27,6000000,8514
+498326,Alan Ruschel,Brazil,defender_long,1,6.51,0,0,0,2,LB,175.0,35,250000,10274
+498459,Robson,Brazil,attacker_long,3,6.51,1,0,0,0,"ST,LW,LM",182.0,34,1300000,581838
+498466,Jorginho,Brazil,midfielder_long,2,5.1,0,0,0,0,CM,184.0,34,500000,165545
+498595,Yago Pikachu,Brazil,attacker_long,3,6.74,0,0,0,0,"RW,RWB,RM",169.0,32,1400000,8287
+498733,Régis,Brazil,midfielder_long,2,6.8,1,0,0,0,CM,170.0,32,950000,1626
+500455,Ricardo Silva,Brazil,defender_long,1,6.52,0,0,0,2,CB,190.0,32,350000,1757
+500602,Gustavo Campanharo,Brazil,attacker_long,3,5.1,0,0,0,0,RW,178.0,33,950000,8702
+500911,Thales,Brazil,defender_long,1,6.92,0,1,0,1,RB,178.0,31,750000,197429
+501636,Jefferson Savarino,Venezuela,midfielder_long,2,7.27,2,1,0,1,"CAM,LW,RW,LM,CM,ST",164.0,28,4500000,8517
+517292,Alan Empereur,Brazil,defender_long,1,6.91,1,0,0,1,CB,186.0,31,800000,197815
+521945,Nathan,Brazil,midfielder_long,2,6.26,0,0,0,0,"CM,CAM",177.0,29,2600000,9769
+521946,Luan,Brazil,midfielder_long,2,5.1,0,0,0,0,CAM,180.0,32,400000,7733
+522651,Matheus Pereira,Brazil,midfielder_long,2,7.34,2,1,0,3,"CAM,ST,RW,RM,CM",175.0,29,7200000,9781
+522750,Dalbert,Brazil,defender_long,1,6.36,0,0,0,2,LB,181.0,31,800000,6305
+523801,Leo Pereira,Brazil,defender_long,1,7.13,1,0,0,1,"CB,LB",186.0,29,8500000,9770
+528348,Éverton,Brazil,attacker_long,3,6.49,1,1,0,0,LW,174.0,29,10000000,9770
+530284,Erwin Saavedra,Bolivia,midfielder_long,2,5.1,2,0,0,0,CM,173.0,29,1200000,5983
+532449,Raul Prata,Brazil,midfielder_long,2,5.1,0,0,0,0,RM,178.0,37,700000,581838
+533775,Rafael Santos Borre,Colombia,attacker_long,3,6.36,2,0,0,0,ST,174.0,29,8500000,8702
+535592,Zé Roberto,Brazil,attacker_long,3,5.1,0,0,0,0,ST,180.0,31,950000,6305
+535596,Guilherme Arana,Brazil,defender_long,1,7.01,0,0,0,1,"LB,LWB,LM,CAM",176.0,28,16000000,10272
+535597,Pedro Henrique,Brazil,defender_long,1,7.45,0,1,0,2,CB,188.0,29,2700000,109705
+535598,Wanderson,Brazil,defender_long,1,5.1,0,0,0,0,CB,186.0,34,300000,104822
+535599,Bruno Henrique,Brazil,midfielder_long,2,6.69,1,0,2,1,"CDM,CM,RW,CAM,RM",180.0,35,650000,8702
+535693,Tadeu,Brazil,keeper_long,0,7.53,1,0,0,1,GK,184.0,33,1400000,9862
+535789,Marcos Felipe,Brazil,keeper_long,0,7.45,0,0,0,0,GK,185.0,29,1600000,7877
+535888,Yago,Brazil,midfielder_long,2,6.62,0,0,0,0,CAM,172.0,30,2200000,163782
+535896,Joao Paulo,Brazil,keeper_long,0,5.1,0,0,0,2,GK,187.0,29,6000000,8514
+535900,Zeca,Brazil,defender_long,1,7.05,0,1,0,2,LB,170.0,31,550000,9767
+535930,Neto,Brazil,midfielder_long,2,6.72,0,0,0,3,"CM,CDM",176.0,28,950000,163782
+535931,Ronaldo,Brazil,midfielder_long,2,5.1,0,0,0,0,CM,180.0,30,400000,104822
+535938,Gabriel Boschilia,Brazil,midfielder_long,2,7.0,2,1,0,2,"CM,CAM,ST",172.0,29,2300000,197429
+535944,Jose Welison,Brazil,midfielder_long,2,6.35,0,0,0,1,"CM,CDM",177.0,30,1600000,8287
+536647,Otávio,Brazil,midfielder_long,2,5.1,0,0,0,0,"CDM,CM",176.0,31,3800000,9863
+538540,Walace,Brazil,midfielder_long,2,6.17,0,0,0,1,"CDM,CM",188.0,30,7000000,9781
+543317,Franco Cristaldo,Argentina,midfielder_long,2,6.7,0,1,0,1,"CAM,ST,RW,CM,LW",175.0,28,8500000,9769
+544424,Gustavo Scarpa,Brazil,midfielder_long,2,7.16,0,1,0,0,"RWB,RM,RW,CAM,CM,LB,LM",176.0,31,8500000,10272
+547724,Luis Iberico,Peru,attacker_long,3,5.1,0,0,0,0,LW,177.0,27,420000,1848
+547854,Jean Archimbaud,Peru,midfielder_long,2,5.1,0,0,0,3,"CDM,CM",180.0,30,550000,6398
+553476,Sergio Rochet,Uruguay,keeper_long,0,7.06,0,0,0,0,GK,189.0,32,4000000,8702
+554287,Rafael Ramos,Portugal,defender_long,1,6.43,0,0,0,1,RB,170.0,30,550000,172341
+555299,Edson,Brazil,defender_long,1,6.64,0,0,0,2,"CB,CDM,CAM",183.0,33,300000,8355
+558006,Dalberson,Brazil,keeper_long,0,5.1,0,0,0,0,GK,191.0,28,210000,1757
+558122,Hyoran,Brazil,midfielder_long,2,5.1,0,0,0,0,LM,174.0,32,2000000,6305
+561043,Juan Martin Lucero,Argentina,attacker_long,3,6.4,3,1,0,2,ST,179.0,33,1500000,8287
+566112,Keno,Brazil,attacker_long,3,6.63,0,0,0,0,LW,178.0,35,1900000,9863
+566389,Mauricio Antonio,Brazil,defender_long,1,6.63,0,0,0,0,CB,183.0,33,350000,6546
+568920,Aderlan,Brazil,defender_long,1,6.57,0,0,0,0,RB,182.0,34,550000,8514
+570359,Philipe Sampaio,Brazil,defender_long,1,5.1,0,0,0,0,CB,191.0,30,650000,8517
+570432,Danilo,Brazil,midfielder_long,2,6.14,0,0,0,1,"CDM,CB,CM",183.0,29,2500000,8517
+571461,Cristian Pavon,Argentina,attacker_long,3,6.29,0,0,0,2,"RW,RM,LW",169.0,29,4500000,9769
+573752,Álex Granell,Spain,midfielder_long,2,5.1,0,0,0,0,CM,180.0,36,3400000,5983
+574664,Tiago Pagnussat,Brazil,defender_long,1,7.04,0,0,0,0,CB,191.0,34,450000,109706
+574923,Benjamin Kuscevic,Chile,defender_long,1,6.7,0,0,0,0,CB,185.0,29,1800000,8287
+575229,Héctor Hernández,Spain,attacker_long,3,6.4,1,0,0,0,"ST,RW",180.0,29,1800000,9808
+575381,Jordi,Brazil,keeper_long,0,6.48,0,0,0,0,GK,192.0,31,1100000,581838
+575733,Cauly Oliveira Souza,Brazil,midfielder_long,2,6.7,1,2,0,1,"LM,CAM,RW,LW,CM,ST",175.0,29,3500000,7877
+576129,Patrick,Brazil,midfielder_long,2,6.52,0,1,0,1,CDM,176.0,32,1800000,10273
+577660,Nathan,Brazil,defender_long,1,7.35,0,1,0,1,CB,188.0,30,1300000,197815
+578391,Ayrton Lucas,Brazil,defender_long,1,7.39,1,0,0,1,"LB,LWB",180.0,27,7200000,9770
+579795,Barreto,Brazil,midfielder_long,2,6.66,1,1,0,0,"RM,CDM,CM",181.0,29,550000,104822
+580604,Gérson,Brazil,attacker_long,3,7.29,0,2,1,0,"RW,CDM,CAM,CM,RM,LW",184.0,28,23000000,9770
+581563,Joao Pedro,Brazil,defender_long,1,6.57,0,0,0,0,"RB,RM",179.0,28,3000000,9769
+581722,Leandro Sosa,Uruguay,defender_long,1,5.1,0,0,0,3,"RB,CM,RM,CB",171.0,30,650000,1848
+581920,William,Brazil,defender_long,1,7.44,0,2,0,1,RB,173.0,30,2200000,9781
+583764,Matheus Sales,Brazil,midfielder_long,2,5.1,0,0,0,0,"CM,CAM",178.0,30,700000,163782
+591315,Igor Rabello,Brazil,defender_long,1,5.1,0,0,0,0,CB,190.0,30,2300000,10272
+592922,Thiago Maia,Brazil,midfielder_long,2,6.77,1,1,0,0,"CDM,CM",179.0,28,5800000,8702
+601605,Dodi,Brazil,midfielder_long,2,7.01,0,0,0,2,"CDM,CM",166.0,29,650000,9769
+614970,Tiquinho Soares,Brazil,attacker_long,3,6.62,1,1,0,2,ST,187.0,34,2400000,8514
+616528,Agustin Rossi,Argentina,keeper_long,0,7.55,0,0,0,1,GK,193.0,29,6500000,9770
+617779,Ramon Martinez,Paraguay,midfielder_long,2,6.3,0,0,0,0,"CM,CDM",186.0,29,450000,6546
+622026,Miguel Vargas,Chile,keeper_long,0,5.1,0,0,0,0,GK,183.0,28,500000,4409
+629937,Clayson,Brazil,attacker_long,3,6.72,0,1,0,2,"LW,LM,CAM",170.0,30,1000000,163782
+630500,Leonardo Godoy,Argentina,defender_long,1,6.34,0,0,0,1,RB,173.0,30,4000000,8514
+631754,Lucas Cunha,Brazil,defender_long,1,6.31,0,0,0,2,CB,186.0,28,2000000,6305
+632708,Leandro Martinez,Argentina,midfielder_long,2,6.68,1,1,0,5,"CM,CAM,CDM,LM",177.0,30,1300000,8287
+634868,Marlon Freitas,Brazil,midfielder_long,2,7.13,0,2,0,2,"CDM,CM,CAM",182.0,30,3300000,8517
+637564,Sander,Brazil,defender_long,1,7.03,0,1,0,1,LB,177.0,34,260000,197815
+637570,Iury Castilho,Brazil,attacker_long,3,6.51,1,0,0,2,"ST,LW",185.0,29,800000,163782
+637580,Carlos Eduardo,Brazil,attacker_long,3,6.05,0,0,0,0,LW,173.0,28,750000,7733
+637585,Matheuzinho,Brazil,midfielder_long,2,6.87,2,0,1,3,"RW,CAM,CM,RM",165.0,27,1400000,7733
+637718,Tche Tche,Brazil,midfielder_long,2,6.47,0,0,0,0,"CDM,CM,LW,CAM,LM,RM",175.0,32,1700000,10276
+638652,Pedro Rocha,Brazil,attacker_long,3,7.56,6,1,0,0,"LW,ST",178.0,30,1400000,1626
+638653,Leandrinho,Brazil,attacker_long,3,5.1,0,0,0,0,LW,174.0,26,380000,109705
+638764,Matheus Ribeiro,Brazil,defender_long,1,7.03,0,1,0,0,"LB,RB",178.0,32,300000,104821
+638778,Bruno Henrique,Brazil,attacker_long,3,6.6,1,0,0,0,"ST,LW,LM,CAM",184.0,34,3000000,9770
+642494,Chico,Brazil,attacker_long,3,6.63,0,0,0,0,"LW,CM,RW,ST,CAM",174.0,34,350000,163782
+643570,Mauricio Lemos,Uruguay,defender_long,1,6.9,0,0,0,0,CB,187.0,29,2000000,10276
+646349,Ramon,Brazil,defender_long,1,5.1,0,0,0,0,CB,186.0,30,450000,172341
+646352,Maxwell,Brazil,attacker_long,3,6.19,0,0,0,0,"LW,LM,ST",178.0,30,220000,1626
+646517,Allano,Brazil,attacker_long,3,7.04,1,2,0,2,"RW,RM,CM,ST",182.0,30,400000,197429
+653140,Matheus,Brazil,midfielder_long,2,6.91,0,1,0,4,"CM,CAM",181.0,28,1800000,6546
+654045,Lyanco,Brazil,defender_long,1,7.2,0,0,2,4,CB,187.0,28,3300000,10272
+655294,Thiago Santos,Brazil,defender_long,1,7.91,0,0,0,0,CB,181.0,35,400000,9863
+656526,David,Brazil,attacker_long,3,5.1,0,0,0,0,"LW,RW",179.0,29,1700000,10276
+657969,Alexander Barboza,Argentina,defender_long,1,7.29,0,0,0,3,CB,193.0,30,2400000,8517
+658261,Juninho,Brazil,defender_long,1,6.94,0,0,0,1,"CB,LB",187.0,30,1100000,8702
+658553,Airton,Brazil,keeper_long,0,7.73,0,0,0,1,GK,188.0,31,250000,581838
+660215,Ricardo Ryller,Brazil,midfielder_long,2,6.5,0,0,0,3,"CM,CDM",184.0,31,700000,7733
+661777,Gustavo Dulanto,Peru,defender_long,1,5.1,0,1,1,0,CB,196.0,29,1400000,4409
+664954,Jean Meneses,Chile,attacker_long,3,5.1,0,0,0,0,"LW,CAM",163.0,32,3200000,10276
+666956,Rodrigo Soares,Brazil,midfielder_long,2,7.48,0,0,0,0,"RWB,RM,RB",176.0,32,1600000,581838
+668729,Edinho,Brazil,attacker_long,3,5.1,0,0,0,0,RW,158.0,30,550000,6546
+670799,Marlon,Brazil,defender_long,1,7.03,0,0,0,2,LB,176.0,31,550000,1757
+670947,Raul,Brazil,midfielder_long,2,6.34,0,0,0,0,"CM,RM,CDM,RB",177.0,28,1700000,10273
+671606,Vinicius Lima,Brazil,midfielder_long,2,6.71,1,0,0,1,"CAM,CDM,LW,CM",181.0,28,2200000,9863
+671925,Guilherme Parede,Brazil,midfielder_long,2,7.63,0,1,0,1,CDM,176.0,29,700000,109706
+672994,Luis Geovanny Segovia,Ecuador,defender_long,1,7.25,1,0,0,0,CB,182.0,27,1300000,104821
+673728,Lucas Lovat,Brazil,defender_long,1,6.91,1,0,0,3,LB,184.0,28,710000,9862
+675000,Luiz Felipe,Brazil,defender_long,1,7.0,0,0,0,1,CB,186.0,31,820000,9862
+676470,Leo,Brazil,defender_long,1,6.88,1,0,0,1,CB,182.0,29,2500000,10273
+676625,Allan,Brazil,midfielder_long,2,6.6,0,0,0,0,"CDM,CM",173.0,28,6500000,9770
+683709,Bruno Rodrigues,Brazil,attacker_long,3,5.1,0,0,0,0,ST,177.0,28,4000000,10283
+687496,Thaciano,Brazil,attacker_long,3,6.46,1,0,0,0,"ST,LW,CM,CAM,RW",182.0,30,2400000,8514
+689080,Luiz Otavio,Brazil,defender_long,1,5.1,0,0,0,0,CB,194.0,32,920000,163782
+690362,Ronaldo,Brazil,midfielder_long,2,6.79,0,0,1,2,"CDM,CM",179.0,28,750000,8702
+693500,Allyson,Brazil,defender_long,1,5.1,0,0,0,0,CB,184.0,34,180000,8355
+704019,Agustin Sant'Anna,Uruguay,defender_long,1,6.69,0,0,0,1,RB,170.0,27,2800000,109705
+724110,Diego Pituca,Brazil,midfielder_long,2,6.6,1,0,0,2,"CDM,CAM,CM",175.0,32,2500000,8514
+728409,Juninho,Brazil,attacker_long,3,6.46,0,0,0,0,ST,179.0,28,2300000,9770
+732548,Christian Rivera,Colombia,midfielder_long,2,6.27,0,0,0,4,"CDM,CM",183.0,29,3300000,6305
+739536,Jose Andres Martinez,Venezuela,midfielder_long,2,6.5,0,1,0,4,"CDM,CM,CB,CAM",176.0,30,3400000,9808
+749365,Marcinho,Brazil,defender_long,1,6.68,0,0,0,1,"RB,RWB",178.0,29,1200000,7729
+749382,Messias,Brazil,defender_long,1,7.36,1,0,0,1,CB,192.0,30,820000,9862
+749834,John Victor,Brazil,keeper_long,0,7.52,0,0,0,2,GK,196.0,29,8500000,8517
+750041,Caique,Brazil,keeper_long,0,5.1,0,0,0,0,GK,198.0,27,1000000,7729
+750046,Fabricio Bruno,Brazil,defender_long,1,7.24,0,0,0,3,CB,192.0,29,7300000,9781
+750057,Felipe Vizeu,Brazil,attacker_long,3,6.48,1,0,0,2,ST,184.0,28,550000,1626
+750063,Neris,Brazil,defender_long,1,6.28,0,0,0,1,CB,190.0,32,700000,7733
+750064,Danielzinho,Brazil,midfielder_long,2,7.29,0,2,0,2,CAM,173.0,29,1300000,104821
+750067,Pedro,Brazil,attacker_long,3,7.3,4,2,0,0,ST,186.0,27,21000000,9770
+750088,Lucas Mineiro,Brazil,midfielder_long,2,7.09,1,1,0,3,"CM,CDM,RM",188.0,29,1600000,197815
+750108,Keiller,Brazil,keeper_long,0,5.1,0,0,0,0,GK,193.0,28,1400000,172341
+750740,Raphael Veiga,Brazil,midfielder_long,2,6.53,0,0,0,0,"CAM,CDM,CM,RW,LW",178.0,29,17000000,10283
+750913,Luiz Araujo,Brazil,attacker_long,3,7.34,2,1,0,0,"RW,LW,CAM",175.0,29,5500000,9770
+751010,Gonzalo Escobar,Argentina,defender_long,1,7.35,0,0,1,2,LB,170.0,28,2400000,8514
+751198,Nicolás de la Cruz,Uruguay,midfielder_long,2,7.3,0,0,0,3,"CDM,CAM,CM",167.0,28,21000000,9770
+751235,Luiz Fernando,Brazil,attacker_long,3,7.34,1,3,0,3,"LW,LM,RW,ST,CAM",178.0,28,1000000,10273
+751527,Renzo Garces,Peru,defender_long,1,5.1,0,0,1,2,CB,180.0,28,460000,6398
+753606,Vitinho,Brazil,midfielder_long,2,5.1,0,0,0,0,CAM,176.0,27,650000,109705
+754373,Bruno Pacheco,Brazil,defender_long,1,6.96,0,0,0,0,LB,174.0,33,600000,8287
+754504,Artur Guimaraes,Brazil,attacker_long,3,7.39,2,3,0,1,"RW,LW,RM",168.0,27,8200000,8517
+756082,Nicolas Vichiatto,Brazil,defender_long,1,6.76,0,0,0,0,LB,181.0,28,1400000,172341
+760418,Marcelo Conceicao,Brazil,defender_long,1,6.62,0,0,0,1,CB,181.0,29,3000000,7729
+762031,Rafael Gava,Brazil,midfielder_long,2,7.48,1,3,0,0,"CM,CAM,CDM",178.0,32,720000,9862
+763151,Guilherme Augusto,Brazil,attacker_long,3,7.14,1,0,0,0,LW,180.0,30,950000,8514
+763386,Luan Peres,Brazil,defender_long,1,7.1,0,0,0,2,CB,190.0,30,1500000,8514
+764133,Matheus Rossetto,Brazil,midfielder_long,2,6.63,0,0,0,0,"CM,CDM,CAM",180.0,29,1800000,8287
+765156,Hayner,Brazil,defender_long,1,6.64,0,0,0,3,RB,178.0,29,850000,104821
+768389,Cleiton Schwengber,Brazil,keeper_long,0,7.26,0,0,0,2,GK,190.0,27,5000000,109705
+769769,Ze Ivaldo,Brazil,defender_long,1,6.77,1,0,0,4,CB,186.0,28,4500000,8514
+769815,Machado,Brazil,midfielder_long,2,7.2,0,1,0,2,"CM,CDM",174.0,29,950000,9767
+775266,Charles,Brazil,midfielder_long,2,6.19,0,0,0,1,"CDM,CM",187.0,28,1300000,9808
+777038,Tabata,Brazil,attacker_long,3,6.81,0,0,0,1,"RW,LM,LW,CM",175.0,28,3000000,8702
+787400,Klaus,Brazil,defender_long,1,6.92,0,0,0,0,CB,187.0,31,750000,1626
+789790,Bruno Melo,Brazil,defender_long,1,6.95,0,0,0,2,"CB,LB",183.0,32,450000,9767
+789847,Felipe,Brazil,midfielder_long,2,5.1,0,0,0,0,"CM,RM",184.0,31,1300000,9862
+789877,Matheus Fernandes,Brazil,midfielder_long,2,6.61,0,0,0,1,"CDM,CM",183.0,26,2500000,109705
+792064,Jean Irmer,Brazil,midfielder_long,2,6.92,2,0,0,4,"CDM,CM",183.0,30,350000,581838
+793033,Joao Basso,Brazil,defender_long,1,6.81,0,0,0,1,CB,187.0,28,1400000,8514
+796732,Rony,Brazil,attacker_long,3,6.91,3,0,0,2,"ST,RW,LW,CAM",170.0,30,8000000,10272
+798592,Mauricio,Brazil,keeper_long,0,5.1,0,0,0,0,GK,191.0,33,400000,109706
+802174,Mathias Villasanti,Paraguay,midfielder_long,2,7.26,0,0,0,4,"CDM,CM",178.0,28,9500000,9769
+802579,Dudu,Brazil,defender_long,1,5.1,0,0,0,0,RB,175.0,28,1200000,10273
+807776,Jose Sagredo,Bolivia,defender_long,1,5.1,0,0,1,0,"LB,CB",180.0,31,400000,5983
+808159,Enzo Hernan Diaz,Argentina,defender_long,1,7.05,0,1,0,3,"LB,LWB",167.0,29,2800000,10277
+811221,Ze Ricardo,Brazil,midfielder_long,2,6.95,0,0,0,3,"CM,RM",176.0,29,1600000,104822
+813039,Fernandinho,Brazil,attacker_long,3,7.01,0,0,0,0,"LW,ST,LM",174.0,27,650000,172341
+813372,Carlos Melgar,Bolivia,attacker_long,3,5.1,0,0,0,0,"RW,CM",172.0,30,500000,5983
+815359,Valdo,Brazil,defender_long,1,5.1,0,0,0,0,CB,183.0,33,700000,6546
+816000,Gustavo Mosquito,Brazil,attacker_long,3,6.42,0,2,0,0,"RW,LW",169.0,27,2500000,7733
+816012,Jori,Brazil,keeper_long,0,5.1,0,0,0,0,GK,190.0,29,350000,1757
+816132,Manuel Capasso,Argentina,defender_long,1,5.1,0,0,0,0,CB,189.0,29,1200000,10276
+816256,Matheus Costa,Brazil,defender_long,1,5.1,0,0,0,0,"CB,RB",188.0,30,620000,8355
+816753,José Rodriguez,Uruguay,defender_long,1,6.38,0,0,0,0,"RB,RW",183.0,28,3500000,10276
+825641,Félix Torres,Ecuador,defender_long,1,6.99,0,0,0,1,"CB,RB",187.0,28,6000000,9808
+830161,Agustin Rogel,Uruguay,defender_long,1,6.52,0,0,0,0,CB,190.0,27,1000000,8702
+832165,Alan Franco,Argentina,defender_long,1,6.94,0,0,0,1,CB,180.0,28,2600000,10277
+832171,Alan Franco,Ecuador,midfielder_long,2,6.9,0,0,0,1,"CDM,CM,RM,RW,CAM",175.0,26,4000000,10272
+832397,Ruben Cordano,Bolivia,keeper_long,0,5.1,0,0,0,0,GK,181.0,26,330000,5983
+832400,Ramiro Vaca,Bolivia,midfielder_long,2,5.1,0,0,0,0,"CAM,CM,LW,LM",176.0,25,850000,5983
+833990,Marcinho,Brazil,attacker_long,3,6.76,0,2,0,0,"ST,RW,LW,LM",176.0,29,440000,197693
+834240,Vitao,Brazil,defender_long,1,6.86,0,1,0,2,CB,185.0,25,7800000,8702
+834605,Tomas Cuello,Argentina,attacker_long,3,7.43,1,0,0,3,"LW,RW,RWB,CAM,ST,LM,RM",181.0,25,3500000,10272
+834699,Renato Solis,Peru,keeper_long,0,5.1,0,0,0,0,GK,178.0,27,900000,1848
+834703,Martin Tavara,Peru,midfielder_long,2,5.1,3,0,0,3,CM,181.0,26,550000,1848
+840183,Henry Vaca,Bolivia,attacker_long,3,5.1,0,0,0,0,RW,166.0,27,480000,5983
+840184,Matias Vina,Uruguay,defender_long,1,5.1,0,0,0,0,LB,180.0,27,8500000,9770
+840212,Agustin Canobbio,Uruguay,attacker_long,3,6.72,1,1,0,1,"LW,RW,CAM,LM",175.0,26,4800000,9863
+841656,Raniele,Brazil,midfielder_long,2,6.71,0,0,0,2,"CDM,CM,CB",184.0,28,2000000,9808
+844089,Jandrei,Brazil,keeper_long,0,5.1,0,0,0,0,GK,186.0,32,550000,10277
+844220,Reynaldo,Brazil,defender_long,1,7.13,1,0,0,1,CB,186.0,28,1200000,1626
+844434,Leo Natel,Brazil,attacker_long,3,6.53,0,0,0,0,LW,179.0,28,600000,581838
+844493,Daniel Fuzato,Brazil,keeper_long,0,5.1,0,0,0,0,GK,190.0,27,950000,10276
+844505,Éder,Brazil,defender_long,1,5.9,0,0,0,0,CB,184.0,30,700000,172341
+844510,Juninho Capixaba,Brazil,defender_long,1,7.63,1,0,0,1,"LB,LM,LW",176.0,27,3500000,109705
+845975,Raul,Brazil,keeper_long,0,5.1,0,0,0,0,GK,190.0,27,130000,8517
+845976,Leo Ortiz,Brazil,defender_long,1,7.41,0,1,0,1,"CB,CDM",185.0,29,10000000,9770
+845984,Iago,Brazil,defender_long,1,6.57,0,0,0,0,LB,181.0,28,4200000,7877
+847129,Jose Rivera,Peru,attacker_long,3,5.1,5,0,1,2,ST,172.0,28,500000,4409
+847910,Nahuel Ferraresi,Venezuela,defender_long,1,6.96,0,0,0,2,"CB,RB",189.0,26,2500000,10277
+850350,Conrado Buchanelli,Brazil,defender_long,1,6.53,0,0,0,1,LB,173.0,28,450000,165545
+851514,Murilo Cerqueira,Brazil,defender_long,1,7.08,1,0,0,3,CB,188.0,28,9500000,10283
+851619,Gabriel Novaes,Brazil,attacker_long,3,6.55,0,0,0,1,"ST,LW",184.0,26,1300000,7729
+857176,Paulinho,Brazil,attacker_long,3,6.43,0,0,0,0,"ST,CAM,LW,LM",175.0,24,18000000,10283
+857527,Gabriel Risso,Argentina,defender_long,1,6.76,0,1,0,0,"LB,LM,LWB",179.0,29,300000,8355
+860082,Michael,Brazil,attacker_long,3,6.96,1,3,0,0,"LW,RW",166.0,29,8000000,9770
+860287,Ronie Carrillo,Ecuador,attacker_long,3,6.39,0,1,0,0,ST,186.0,28,600000,8355
+861661,Joaquin Piquerez,Uruguay,defender_long,1,7.29,2,0,0,2,"LB,LWB,LM,CB",185.0,26,15000000,10283
+861788,Federico Martinez,Uruguay,attacker_long,3,6.27,0,0,0,1,LW,175.0,29,1700000,165545
+861811,Junior Brumado,Brazil,attacker_long,3,6.2,0,0,0,1,"ST,LW",190.0,26,850000,9767
+863158,Marlon,Brazil,defender_long,1,7.21,0,0,0,2,LB,174.0,28,5300000,9769
+864464,Erick,Brazil,attacker_long,3,6.7,0,2,0,1,RW,173.0,27,1300000,7733
+866506,Luizao,Brazil,midfielder_long,2,7.15,1,0,0,2,"CB,CDM,CM",184.0,27,450000,165545
+872394,Gustavo Cazonatti,Brazil,midfielder_long,2,5.1,0,0,0,0,"CM,CDM",178.0,28,650000,1848
+872965,Benjamin Garre,Argentina,attacker_long,3,6.32,0,0,0,0,"RW,RM",172.0,24,6500000,10276
+876341,Ruan,Brazil,defender_long,1,6.3,0,0,0,1,"RWB,RM,RB",170.0,30,1700000,165545
+879585,Everton Morelli,Brazil,midfielder_long,2,6.87,1,0,0,4,"CM,CAM",185.0,27,440000,7729
+887142,Alan Rodriguez,Paraguay,defender_long,1,7.47,0,0,0,3,LB,172.0,24,1300000,1626
+890637,Pedro Raul,Brazil,attacker_long,3,6.81,4,0,0,2,ST,193.0,28,2200000,172341
+892752,Yuri Alberto,Brazil,attacker_long,3,7.14,5,1,0,2,ST,183.0,24,18000000,9808
+896256,Fernando,Brazil,attacker_long,3,5.1,0,0,0,0,ST,176.0,26,3500000,109705
+900043,Matheus Henrique,Brazil,midfielder_long,2,6.97,0,0,0,1,"CM,CDM,LW,RW",175.0,27,16000000,9781
+902693,Lizeiro,Brazil,midfielder_long,2,5.1,0,0,0,0,CM,175.0,27,2400000,10277
+902694,Igor Gomes,Brazil,midfielder_long,2,6.79,1,1,0,0,"CM,CAM,LW",182.0,26,5000000,10272
+902826,Michel Araujo,Uruguay,midfielder_long,2,6.55,1,0,0,0,"CDM,LM,LB",178.0,28,1800000,7877
+905493,Brenno,Brazil,keeper_long,0,5.1,0,0,0,0,GK,188.0,26,1500000,8287
+905494,Ruan Tressoldi,Brazil,defender_long,1,7.36,0,0,0,1,CB,187.0,25,2800000,10277
+905498,Vitinho,Brazil,defender_long,1,6.98,1,0,0,1,"RB,RM",175.0,25,5500000,8517
+911296,Francis Amuzu,Belgium,attacker_long,3,6.87,1,0,0,2,LW,170.0,25,4600000,9769
+916348,Igor Vinicius,Brazil,defender_long,1,6.77,0,0,0,1,"RB,RWB",174.0,28,3000000,10277
+919212,Gabriel Baralhas,Brazil,midfielder_long,2,6.6,0,0,0,2,"CM,CDM,CAM",178.0,26,1100000,7733
+919919,Andre,Brazil,attacker_long,3,5.1,3,1,0,3,ST,177.0,28,2200000,10277
+920420,Eduardo Santos,Brazil,defender_long,1,6.8,0,0,0,0,CB,196.0,27,1000000,109705
+921070,Gregore,Brazil,midfielder_long,2,7.19,0,0,0,3,"CDM,CM,CB",181.0,31,6500000,8517
+922898,Jesus Pretel,Peru,midfielder_long,2,5.1,0,0,0,2,"CM,CDM",171.0,26,450000,1848
+927070,Ze Marcos,Brazil,defender_long,1,6.77,0,0,0,1,CB,187.0,27,800000,7733
+929219,Junior Santos,Brazil,attacker_long,3,6.25,1,0,0,1,ST,188.0,31,6500000,10272
+933054,Luis Oyama,Brazil,midfielder_long,2,6.94,1,3,0,0,"CDM,CM",171.0,28,800000,581838
+933792,Caio Vinicius,Brazil,midfielder_long,2,6.9,0,0,0,1,"CM,CB",187.0,26,1700000,1626
+933810,Vitor Eudes,Brazil,keeper_long,0,5.1,0,0,0,0,GK,195.0,26,200000,9863
+933819,Mikael,Brazil,attacker_long,3,6.48,1,0,0,1,ST,184.0,26,1500000,104821
+934154,Luan,Brazil,midfielder_long,2,5.1,0,0,0,0,CDM,180.0,26,110000,7733
+934675,Jean Lucas,Brazil,midfielder_long,2,6.86,0,0,1,1,"CM,CDM,LW,CAM",181.0,26,5200000,7877
+935288,Pedrinho,Brazil,attacker_long,3,7.01,1,0,0,0,"LW,RW,LM",176.0,25,820000,197815
+936587,Madison,Brazil,midfielder_long,2,6.82,0,0,0,0,CM,173.0,26,50000,1626
+936589,Getulio,Brazil,attacker_long,3,6.31,0,0,0,0,ST,185.0,27,1000000,197693
+936704,Jefferson,Brazil,defender_long,1,5.1,0,0,0,0,"LB,LM",176.0,28,550000,197429
+939196,Lucas Braga,Brazil,attacker_long,3,6.18,1,0,0,1,"RW,CAM,LW,LM",184.0,28,1500000,7733
+941490,Guga,Brazil,defender_long,1,7.17,1,0,0,1,"RB,LB",173.0,26,4500000,9863
+941635,Everaldo,Brazil,attacker_long,3,5.1,0,0,0,1,RW,172.0,31,850000,9767
+941735,Miranda,Brazil,defender_long,1,7.45,0,0,0,0,CB,181.0,25,550000,197429
+949665,Mateus Pasinato,Brazil,keeper_long,0,6.95,0,0,0,2,GK,192.0,32,350000,197815
+950153,Gabriel Fuentes,Colombia,defender_long,1,7.22,0,0,0,1,LB,180.0,28,1600000,9863
+950456,Marcos Vinicius,Brazil,defender_long,1,7.1,0,1,0,2,RB,176.0,28,300000,104822
+950459,Anderson,Brazil,keeper_long,0,8.22,0,0,0,0,GK,190.0,27,650000,165545
+950919,Luan Santos,Brazil,midfielder_long,2,5.1,0,0,0,0,"CDM,CM",175.0,26,4000000,10277
+951359,Nonato,Brazil,midfielder_long,2,6.68,0,0,0,3,"CDM,CM",175.0,27,1700000,9863
+951629,Nathan Fogaca,Brazil,attacker_long,3,7.22,5,0,0,1,"ST,CAM",178.0,25,420000,581838
+952235,Lucas Oliveira,Brazil,defender_long,1,5.1,0,0,0,0,CB,187.0,29,1800000,10276
+954213,Caca,Brazil,defender_long,1,7.12,1,0,0,1,CB,187.0,26,2800000,9808
+954252,Mayk,Brazil,defender_long,1,5.1,0,0,0,0,LB,172.0,25,150000,9769
+955333,Fabricio Dominguez,Uruguay,midfielder_long,2,6.26,0,0,0,1,"CM,RM,RB,RW",192.0,26,950000,6305
+955381,Diego Palacios,Ecuador,defender_long,1,5.1,0,0,0,0,LB,169.0,25,4500000,9808
+955584,Aloisio,Brazil,midfielder_long,2,5.1,0,0,0,0,CM,180.0,29,500000,9862
+955687,Lucas Ribeiro,Brazil,defender_long,1,6.91,0,0,0,3,CB,190.0,26,1300000,9862
+959915,Alvaro Barreal,Argentina,attacker_long,3,6.89,2,0,0,0,"RW,LW,CM,ST,CAM",172.0,24,5500000,8514
+960494,Ramires,Brazil,midfielder_long,2,7.1,1,1,0,1,"CDM,CM",172.0,24,3500000,109705
+960652,Willian Maranhao,Brazil,midfielder_long,2,6.81,0,1,0,0,"CM,RM,LB,CDM",179.0,29,1000000,165545
+960887,Hugo Souza,Brazil,keeper_long,0,6.65,0,0,0,1,GK,199.0,26,7700000,9808
+964199,Jesus Castillo,Peru,midfielder_long,2,5.1,0,0,0,2,"CM,CDM",175.0,29,720000,6398
+964661,Kaio Jorge,Brazil,attacker_long,3,7.88,8,2,0,2,"ST,RW",182.0,23,3500000,9781
+964936,Alef Manga,Brazil,attacker_long,3,7.01,2,1,0,3,ST,190.0,30,1200000,104822
+965278,Marlon,Brazil,midfielder_long,2,6.62,0,1,0,2,"CM,LM,CAM,LW,CDM",175.0,35,325000,581838
+966069,Luan Candido,Brazil,defender_long,1,5.1,0,0,0,0,"LB,CB",184.0,24,6500000,9769
+967692,Ignacio,Brazil,defender_long,1,7.1,0,0,0,0,CB,190.0,28,1300000,9863
+971433,Ignacio Laquintana,Uruguay,attacker_long,3,6.55,2,0,0,0,RW,177.0,26,1200000,109705
+971613,Hayen Palacios,Colombia,defender_long,1,6.5,1,1,1,0,RB,181.0,25,300000,10273
+974867,Marcos Paulo,Portugal,attacker_long,3,6.75,1,0,0,1,"LW,ST",186.0,24,500000,197429
+975901,Juan Freytes,Argentina,defender_long,1,6.85,0,0,0,2,"CB,LM,LB,LWB,LW",182.0,25,1000000,9863
+978252,Kevin Velasco,Colombia,attacker_long,3,6.36,0,0,0,1,RW,172.0,28,1500000,10273
+979414,Bruno Tubarao,Brazil,defender_long,1,6.11,0,0,0,0,RB,180.0,30,500000,172341
+980311,Gonzalo Plata,Ecuador,attacker_long,3,6.51,1,0,0,0,"RW,CAM,ST,LW",178.0,24,6500000,9770
+981070,Fausto Vera,Argentina,midfielder_long,2,6.63,1,0,0,1,"CM,CDM",179.0,25,5000000,10272
+981120,Kaique Rocha,Brazil,defender_long,1,5.1,0,0,0,0,CB,195.0,24,2500000,8702
+982363,Matias Succar,Peru,attacker_long,3,5.1,0,0,0,1,"ST,LW",187.0,26,495000,6398
+982426,Gabriel Brazao,Brazil,keeper_long,0,6.77,0,0,0,0,GK,192.0,24,350000,8514
+988208,Jairo Concha,Peru,midfielder_long,2,5.1,4,4,0,2,CM,174.0,26,950000,4409
+989457,Marlon,Brazil,attacker_long,3,6.33,0,0,0,0,"LW,ST,RW",176.0,27,330000,6546
+1003633,Jesus Sagredo,Bolivia,defender_long,1,5.1,0,0,0,0,"CB,RB",180.0,31,400000,5983
+1020027,Nicolas Acevedo,Uruguay,midfielder_long,2,6.5,0,0,0,1,CDM,173.0,26,4200000,7877
+1023030,Jhon Arias,Colombia,attacker_long,3,7.36,1,4,0,1,"RW,CM,CAM,LW",168.0,27,17000000,9863
+1023047,Matheus Babi,Brazil,attacker_long,3,6.43,1,0,0,0,ST,191.0,27,450000,10274
+1024971,Pernambuco,Brazil,midfielder_long,2,6.27,0,0,0,0,RM,187.0,27,500000,10274
+1025557,Anibal Moreno,Argentina,midfielder_long,2,6.53,0,0,0,0,"CDM,CM",178.0,26,7500000,10283
+1028036,Hugo Moura,Brazil,midfielder_long,2,6.6,0,1,0,3,"CDM,CM",177.0,27,1750000,10276
+1028125,Erick,Brazil,midfielder_long,2,6.73,3,1,0,3,"CM,RB,CDM,RM",178.0,27,4200000,7877
+1028704,Santiago Rodriguez,Uruguay,attacker_long,3,6.3,0,0,0,0,"LW,CAM",167.0,25,4600000,8517
+1032785,Edson Carioca,Brazil,attacker_long,3,7.0,2,2,0,1,"LW,ST",178.0,27,500000,163782
+1033100,Higor Meritao,Brazil,midfielder_long,2,7.29,1,1,0,3,"CDM,CM,RM",186.0,30,1500000,104821
+1033279,Isidro Pitta,Paraguay,attacker_long,3,6.87,4,1,0,2,"ST,RW",183.0,25,6000000,109705
+1041429,Edu,Brazil,attacker_long,3,6.67,1,1,0,1,ST,180.0,32,1300000,197815
+1043436,Savio Alves,Brazil,defender_long,1,7.36,0,2,0,0,"LB,LWB",173.0,30,230000,1626
+1043762,Lucas Halter,Brazil,defender_long,1,6.82,1,0,0,3,CB,187.0,25,2800000,7733
+1043824,Caio Paulista,Brazil,defender_long,1,7.06,0,0,0,1,LB,184.0,27,3300000,10272
+1043908,Bruno Fuchs,Brazil,defender_long,1,6.85,0,0,0,2,"CB,RB",190.0,26,2200000,10283
+1046082,Vitinho,Brazil,attacker_long,3,6.21,0,0,0,2,"RW,LW,RM,LM",181.0,26,6000000,8702
+1047358,Joao Victor,Brazil,defender_long,1,7.11,1,0,0,1,CB,187.0,26,5500000,10276
+1047658,Wagner Leonardo,Brazil,defender_long,1,6.99,0,1,0,2,CB,186.0,25,2200000,9769
+1047943,Ale,Brazil,midfielder_long,2,5.1,0,0,0,0,"CM,RM",184.0,34,350000,1757
+1053347,Matias Arezo,Uruguay,attacker_long,3,6.83,1,1,0,1,ST,175.0,22,7000000,9769
+1053727,Johan Carbonero,Colombia,attacker_long,3,6.72,0,0,0,0,"LW,RW,LM",170.0,25,2300000,8702
+1053842,Christian Cardoso,Brazil,midfielder_long,2,7.04,1,1,0,3,"RW,CAM,CDM,LW,CM,RM",178.0,24,7500000,9781
+1053847,Breno Lopes,Brazil,attacker_long,3,6.76,1,0,0,0,"LW,ST,RW",175.0,29,2200000,8287
+1057499,Junior,Brazil,keeper_long,0,6.67,0,0,0,1,GK,189.0,26,120000,581832
+1057583,Talles Magno,Brazil,attacker_long,3,6.45,0,1,0,1,"LW,ST,CAM",186.0,22,6300000,9808
+1058103,Joao Lucas,Brazil,defender_long,1,6.36,0,0,0,0,RB,181.0,27,1800000,9769
+1058316,Luan Freitas,Brazil,defender_long,1,6.6,0,0,0,2,"CB,CM",184.0,24,125000,6546
+1059490,Mauricio,Brazil,midfielder_long,2,6.36,1,0,0,0,"CAM,ST,LW",174.0,23,11000000,10283
+1060636,Camilo,Brazil,midfielder_long,2,6.33,0,0,0,0,"CDM,CM",176.0,26,1300000,9769
+1069976,Jose Gabriel,Brazil,midfielder_long,2,6.3,0,0,0,1,"CDM,CM",184.0,26,1700000,7729
+1072282,Vinicius Alessandro,Brazil,attacker_long,3,6.38,0,1,0,0,"ST,LW",190.0,25,700000,197429
+1073365,Benjamin Rollheiser,Argentina,midfielder_long,2,6.88,0,0,0,2,"CAM,RW",175.0,25,10000000,8514
+1074833,Vinicius Paiva,Brazil,attacker_long,3,6.78,0,0,0,0,"LW,RW,CM,ST",170.0,24,650000,109706
+1079459,Pedro Augusto,Brazil,midfielder_long,2,5.11,0,0,1,1,"CM,CDM,RM",181.0,28,1800000,8287
+1079486,Luquinha,Brazil,midfielder_long,2,5.1,0,0,0,0,CAM,167.0,24,720000,8355
+1082102,Igor Jesus,Brazil,attacker_long,3,7.17,3,1,0,0,ST,180.0,24,2300000,8517
+1082117,Sabino,Brazil,defender_long,1,7.18,0,0,0,1,"CB,LB",184.0,28,1200000,10277
+1082262,Matheus Lucas,Brazil,midfielder_long,2,6.78,2,0,0,0,LM,180.0,26,250000,198135
+1082894,Matheus Davo,Brazil,attacker_long,3,6.58,0,1,0,0,ST,178.0,25,1000000,163782
+1083055,Lucas Esteves,Brazil,defender_long,1,6.77,0,0,0,0,"LB,LWB,LW",171.0,24,1700000,9769
+1084245,Julimar,Brazil,attacker_long,3,5.1,0,0,0,0,"LW,LM",188.0,24,140000,10273
+1086044,Edu,Brazil,defender_long,1,6.96,0,0,0,0,CB,188.0,24,400000,7733
+1086550,Ricardo Lagos,Peru,defender_long,1,5.1,1,0,0,1,LB,172.0,29,650000,6398
+1088049,Rai Ramos,Brazil,defender_long,1,6.86,1,0,0,1,RB,179.0,31,450000,165545
+1088118,Derik Lacerda,Brazil,attacker_long,3,7.07,1,1,0,1,"ST,LW,RW,RM",191.0,25,550000,197815
+1088156,Lucao,Brazil,keeper_long,0,8.07,0,0,0,0,GK,190.0,24,1800000,109705
+1090263,Bruno Gomes,Brazil,defender_long,1,5.1,0,0,0,0,"RB,CM",175.0,24,2200000,8702
+1093746,Rodrigo Garro,Argentina,midfielder_long,2,7.41,0,0,0,1,"CAM,RW,ST",174.0,27,6800000,9808
+1098099,Jhonata Robert,Brazil,attacker_long,3,7.0,1,0,0,0,RW,179.0,25,950000,7729
+1098460,Alan Cantero,Argentina,midfielder_long,2,5.1,1,1,0,0,"CAM,LW",181.0,26,220000,6398
+1104156,Alexandro Bernabei,Argentina,defender_long,1,7.59,0,2,0,1,LB,169.0,24,5800000,8702
+1106898,Gabriel Veron,Brazil,attacker_long,3,6.19,0,0,0,0,"RW,ST,LW",176.0,22,7000000,8514
+1108884,Diego Rosa,Brazil,midfielder_long,2,6.31,0,0,0,0,CAM,182.0,22,2200000,8702
+1109119,Kevin Serna,Colombia,attacker_long,3,6.88,3,0,0,0,"LW,RW",182.0,27,1900000,9863
+1111937,Lautaro Diaz,Argentina,attacker_long,3,6.11,0,0,0,0,"ST,LW,RW",181.0,27,1400000,9781
+1116234,Caio Alexandre,Brazil,midfielder_long,2,6.88,0,1,0,4,"CDM,CM,CB",174.0,26,4800000,7877
+1116482,Igor Marques,Brazil,midfielder_long,2,7.25,0,0,0,0,"RWB,RM",177.0,26,220000,581838
+1117148,Marcelo Pitaluga,Brazil,keeper_long,0,5.1,0,0,0,0,GK,193.0,22,450000,9863
+1118183,Pedrinho,Brazil,midfielder_long,2,5.1,0,0,0,0,"LW,ST,CM,CAM",175.0,23,650000,10277
+1118194,Rodrigo Nestor,Brazil,midfielder_long,2,6.63,0,0,0,0,"CM,CDM",175.0,24,8500000,7877
+1122482,Chayene,Brazil,midfielder_long,2,5.1,0,0,0,0,"CAM,RW,LW",177.0,34,450000,198135
+1128937,Ronald,Brazil,attacker_long,3,6.28,0,0,0,1,"RW,ST,LW",160.0,28,350000,197429
+1129860,Caio Dantas,Brazil,attacker_long,3,6.25,0,0,0,0,"ST,LW",177.0,32,350000,165545
+1130584,Luciano Arriagada,Chile,attacker_long,3,5.1,0,0,0,0,ST,184.0,23,1500000,10273
+1130630,Gaston Avila,Argentina,defender_long,1,6.68,0,0,0,0,LB,186.0,23,4500000,8287
+1130713,Joao Paulo,Brazil,defender_long,1,6.96,0,0,0,2,CB,188.0,27,55000,197693
+1130746,Dylan Borrero,Colombia,attacker_long,3,5.1,0,0,0,0,LW,179.0,23,2800000,8287
+1130833,Bidu,Brazil,defender_long,1,7.45,0,1,0,0,"LB,LWB",172.0,26,2500000,9808
+1130861,Jose Carabali,Ecuador,defender_long,1,5.1,0,4,0,3,"LWB,LW,CM",173.0,28,500000,4409
+1130889,Anderson,Brazil,defender_long,1,6.57,0,0,0,1,CB,189.0,30,850000,104821
+1130901,Nathan Santos,Brazil,defender_long,1,7.17,0,0,0,0,RB,183.0,23,2300000,8702
+1132308,Breno Herculano,Brazil,attacker_long,3,6.55,2,0,0,2,ST,189.0,26,130000,104821
+1132936,Guzman Rodriguez,Uruguay,defender_long,1,7.08,0,0,0,3,CB,185.0,25,2200000,109705
+1132940,Thiago Borbas,Uruguay,attacker_long,3,6.27,0,0,0,2,ST,186.0,23,7500000,109705
+1133015,Matheus Mendes,Brazil,keeper_long,0,6.69,0,0,0,1,GK,191.0,26,350000,1757
+1133311,Jairo Quinteros,Bolivia,defender_long,1,5.1,1,0,0,0,CB,180.0,24,230000,5983
+1133998,Alex Valera,Peru,attacker_long,3,5.1,4,3,0,1,ST,183.0,29,490000,4409
+1134464,Erick Noriega,Peru,defender_long,1,5.1,1,0,0,0,"CB,CM,CDM,RB",182.0,23,250000,6398
+1136409,Cristian Olivera,Uruguay,attacker_long,3,7.34,2,0,0,1,"RW,RM,LW,ST",172.0,23,6100000,9769
+1137456,Bruno Praxedes,Brazil,midfielder_long,2,5.1,0,0,0,0,CM,186.0,23,5000000,109705
+1137664,Patrick Carneiro,Brazil,midfielder_long,2,6.46,0,0,0,0,"CM,CAM,CDM",180.0,25,2300000,8517
+1137671,Gabriel Menino,Brazil,midfielder_long,2,6.67,0,1,0,0,"CM,CDM,LW",176.0,24,7000000,10272
+1137909,Emiliano Martinez,Uruguay,midfielder_long,2,6.97,1,0,0,1,"CM,CDM",184.0,25,5000000,10283
+1138966,Wesley,Brazil,attacker_long,3,6.93,0,2,0,1,"LW,RW,LM,CAM,ST",175.0,26,5300000,8702
+1139168,Facundo Torres,Uruguay,attacker_long,3,7.06,2,1,0,1,"RW,LW,CAM,LM,RM",175.0,25,16000000,10283
+1140204,Airton Sousa,Brazil,attacker_long,3,5.1,0,0,0,0,"RW,LM,LW,CAM",178.0,26,300000,581838
+1157961,Joao Neto,Brazil,midfielder_long,2,5.1,0,0,0,0,RM,179.0,22,350000,109705
+1158933,Sabit Abdulai,Ghana,midfielder_long,2,6.51,0,0,0,2,"CM,CDM,RW",187.0,26,220000,8355
+1165259,Fabiano Silva,Brazil,defender_long,1,6.85,0,0,0,4,RB,175.0,25,1400000,172341
+1171459,Gabriel Barros,Brazil,attacker_long,3,6.02,0,0,0,0,RW,182.0,23,250000,7729
+1172406,Moises Vieira,Brazil,attacker_long,3,6.66,0,1,0,1,"ST,LW",175.0,28,1800000,8287
+1172407,Gabriel Inocencio,Brazil,defender_long,1,5.1,0,0,0,0,LB,175.0,30,300000,197693
+1173525,Cleber,Brazil,attacker_long,3,7.13,3,2,0,0,ST,199.0,28,1100000,104822
+1173546,Roni,Brazil,midfielder_long,2,6.32,0,0,0,1,"CDM,CM,RB",174.0,26,1400000,163782
+1173549,Matheus Donelli,Brazil,keeper_long,0,6.83,0,0,0,1,GK,189.0,23,2500000,9808
+1173551,Ruan Oliveira,Brazil,midfielder_long,2,5.79,0,0,0,0,CAM,176.0,25,750000,197815
+1173565,Natanael,Brazil,defender_long,1,6.82,0,0,0,0,"RB,RWB",172.0,23,2000000,10272
+1174329,Luciano Juba,Brazil,defender_long,1,7.45,1,3,0,0,LB,176.0,25,1800000,7877
+1174630,Richard Rios,Colombia,midfielder_long,2,7.05,0,2,0,4,"CDM,CM,CAM",180.0,25,15000000,10283
+1174633,Ramon,Brazil,defender_long,1,6.66,0,0,0,1,"LB,LWB",179.0,24,2200000,8702
+1174660,Matheuzinho,Brazil,defender_long,1,6.81,0,0,0,4,"RB,RWB",171.0,24,6300000,9808
+1174662,Matheus Bahia,Brazil,defender_long,1,7.41,0,1,0,2,LB,181.0,25,1400000,172341
+1174680,Fabricio,Brazil,keeper_long,0,5.1,0,0,0,0,GK,190.0,24,120000,109705
+1174974,Fabricio,Brazil,attacker_long,3,6.6,0,1,0,0,LW,186.0,24,750000,7733
+1175819,Henri,Brazil,defender_long,1,7.1,0,0,0,1,CB,188.0,23,1500000,104821
+1176041,Ronald,Brazil,midfielder_long,2,6.9,0,0,0,2,"CM,CDM",171.0,27,650000,7733
+1178845,Camutanga,Brazil,defender_long,1,6.63,0,0,0,1,CB,189.0,31,500000,1626
+1181405,Jhamir D'Arrigo,Peru,attacker_long,3,5.1,0,2,0,0,"RW,RM",170.0,25,650000,6398
+1182091,Hugo,Brazil,defender_long,1,5.1,0,0,0,0,LB,175.0,23,3800000,7733
+1185338,Joao Marcelo,Brazil,defender_long,1,5.1,0,0,0,0,CB,189.0,24,750000,9781
+1187836,Martinelli,Brazil,midfielder_long,2,7.19,1,1,0,0,"CDM,CM",177.0,23,8000000,9863
+1188578,Joao Silva,Portugal,defender_long,1,6.29,0,0,0,1,CB,187.0,26,1400000,6305
+1188608,Nuno Moreira,Portugal,attacker_long,3,7.19,2,1,0,1,"LW,CAM,ST",175.0,25,1700000,10276
+1190850,Alexander Aravena,Chile,attacker_long,3,6.54,1,0,0,1,"LW,RW,LM",174.0,22,6500000,9769
+1190851,Emerson Batalla,Colombia,attacker_long,3,6.77,3,1,0,2,"RW,RM,LW,ST,LM,CM",171.0,23,800000,10274
+1193658,Wellington Rato,Brazil,attacker_long,3,6.43,1,0,0,0,"RW,CM,LM,CAM",172.0,32,1000000,7733
+1195556,Quaresma,Brazil,midfielder_long,2,6.48,0,0,0,0,RM,181.0,28,2000000,104822
+1198558,Hugo Farias,Brazil,defender_long,1,6.58,0,0,0,0,"LB,LWB",179.0,27,550000,9808
+1200667,Braian Aguirre,Argentina,defender_long,1,6.97,1,0,0,1,"RB,LB",175.0,24,1800000,8702
+1200712,Daniel Cabral,Brazil,midfielder_long,2,6.26,0,0,0,0,CM,174.0,23,130000,1626
+1200743,Juan Sforza,Argentina,midfielder_long,2,6.83,0,0,0,0,CM,179.0,23,4800000,10276
+1200928,Clayton,Brazil,defender_long,1,7.58,0,0,0,0,CB,187.0,25,950000,8702
+1201038,Lucas Esquivel,Argentina,defender_long,1,7.11,0,1,0,0,"LB,CB,LM",183.0,23,1100000,10273
+1206576,Vinicius,Brazil,midfielder_long,2,5.1,0,0,0,0,CM,178.0,26,750000,197693
+1208004,Mateus Oliveira,Brazil,keeper_long,0,5.1,0,0,0,0,GK,199.0,23,95000,10283
+1209100,Vanderlan,Brazil,defender_long,1,6.56,0,0,0,0,"LB,LWB,LM",183.0,22,4500000,10283
+1210064,Leonardo Linck,Brazil,keeper_long,0,5.1,0,0,0,0,GK,195.0,24,950000,8517
+1211858,Pedro Rangel,Brazil,keeper_long,0,7.17,0,0,0,0,GK,192.0,24,650000,9767
+1212487,Jose Hurtado,Ecuador,defender_long,1,7.15,0,0,0,2,RB,175.0,23,1400000,109705
+1213750,Rubens,Brazil,midfielder_long,2,7.33,1,0,0,2,"LM,LWB,CDM,LW,CM,LB",178.0,23,4500000,10272
+1216079,Jose Lopez,Argentina,attacker_long,3,6.72,2,0,0,2,ST,188.0,24,7500000,10283
+1216339,Bruno Matias,Brazil,midfielder_long,2,6.67,0,0,0,3,"CM,CDM",172.0,26,350000,197693
+1219067,Kawe,Brazil,midfielder_long,2,5.1,0,0,0,0,"CM,CAM",178.0,22,350000,109705
+1219068,Carlos Alberto,Brazil,attacker_long,3,6.39,0,0,0,1,"LW,ST",181.0,23,1500000,6305
+1221953,Magrao,Brazil,keeper_long,0,5.1,0,0,0,0,GK,197.0,25,350000,8287
+1222807,Guilherme Lopes,Brazil,defender_long,1,7.42,1,0,0,0,LB,178.0,23,500000,109705
+1225468,Hereda,Brazil,defender_long,1,7.0,0,1,0,1,"RB,LB",178.0,26,300000,6305
+1227192,Patric Calmon,Brazil,defender_long,1,6.59,0,0,0,0,LB,181.0,30,200000,6546
+1227363,Gustavo,Brazil,midfielder_long,2,5.1,0,0,0,0,"CM,CAM",176.0,25,110000,9863
+1232260,Lenny Lobato,Brazil,attacker_long,3,6.27,0,0,0,0,"LW,ST",174.0,24,800000,6305
+1233126,Fernando Henrique,Brazil,midfielder_long,2,6.44,0,0,0,1,"CDM,CM",182.0,24,1200000,104821
+1233129,Matheus Araujo,Brazil,midfielder_long,2,6.37,1,1,0,0,CAM,176.0,23,2300000,172341
+1233937,Daniel Fabricio,Brazil,midfielder_long,2,6.16,0,0,0,0,"RM,RW,ST,CAM,LM",182.0,27,500000,163782
+1235639,Alexandre Jesus,Brazil,attacker_long,3,6.84,4,0,0,0,"ST,RW,CAM",183.0,23,200000,8355
+1238035,Alisson Cassiano,Brazil,defender_long,1,6.1,0,0,0,2,CB,187.0,31,180000,8355
+1240979,Loide Augusto,Angola,attacker_long,3,6.48,0,0,0,1,"RW,LW,ST",180.0,25,1400000,10276
+1244631,Kayky,Brazil,attacker_long,3,6.54,1,0,0,1,RW,172.0,21,6500000,7877
+1247716,Matheus Alexandre,Brazil,defender_long,1,5.73,0,0,0,3,"RB,RWB",188.0,26,1300000,6305
+1248060,Alejandro Martinez,Argentina,attacker_long,3,6.8,0,1,0,0,RW,170.0,28,1300000,172341
+1248663,Gabriel Grando,Brazil,keeper_long,0,5.1,0,0,1,1,GK,192.0,25,2200000,9769
+1248672,Elias Manoel,Brazil,attacker_long,3,5.85,0,0,0,0,ST,179.0,23,2300000,8517
+1248844,Marco Huaman,Peru,defender_long,1,5.1,0,1,0,0,"RB,CM,RM",175.0,22,450000,6398
+1249293,Fabinho,Brazil,midfielder_long,2,6.61,0,1,0,1,"CDM,CM",178.0,23,4500000,109705
+1249664,Eros Mancuso,Argentina,defender_long,1,6.46,0,0,0,1,"RB,LB,LW,RW",173.0,26,4500000,8287
+1251022,Jhonnathan,Brazil,defender_long,1,5.1,0,0,0,0,CB,186.0,24,130000,197693
+1252913,Damian Bobadilla,Paraguay,midfielder_long,2,6.72,0,0,0,2,"CDM,CM",181.0,23,3000000,10277
+1254926,Flavio Alcedo,Peru,defender_long,1,5.1,0,0,0,2,CB,182.0,22,180000,1848
+1255210,Marquinhos,Brazil,attacker_long,3,6.37,0,0,0,0,"RW,LW,LM",175.0,22,7500000,9781
+1255211,Nathan Mendes,Brazil,defender_long,1,6.36,0,0,0,0,RB,182.0,22,650000,109705
+1255479,Adson,Brazil,attacker_long,3,6.35,0,0,0,0,"RW,ST",171.0,24,5500000,10276
+1256634,Lucas Barbosa,Brazil,attacker_long,3,6.64,0,2,1,2,"RW,LW",194.0,24,2800000,109705
+1256689,Gustavinho,Brazil,attacker_long,3,6.17,0,0,0,0,RW,174.0,23,850000,1757
+1256693,Gustavo Ramalho,Brazil,keeper_long,0,5.1,0,0,0,0,GK,200.0,22,150000,9863
+1257284,Mancha,Brazil,defender_long,1,5.98,0,0,0,1,LB,177.0,24,55000,197693
+1257289,Joao Paulo,Brazil,keeper_long,0,5.1,1,0,0,0,GK,187.0,24,55000,197693
+1259117,Thayllon,Brazil,attacker_long,3,6.41,0,0,0,0,ST,166.0,23,130000,581832
+1259570,Felipe,Brazil,defender_long,1,5.1,0,0,0,0,LWB,177.0,26,300000,7733
+1260081,Anthoni,Brazil,keeper_long,0,6.2,0,0,0,0,GK,193.0,23,350000,8702
+1262084,Matheus Martins,Brazil,attacker_long,3,6.48,0,0,0,1,"LW,CAM,RW",178.0,21,7500000,8517
+1262208,Micael,Brazil,defender_long,1,7.25,0,0,0,1,CB,183.0,24,1300000,10283
+1265991,David da Hora,Brazil,attacker_long,3,6.88,1,0,0,0,RW,179.0,25,1800000,104821
+1267067,Kelvi,Brazil,midfielder_long,2,5.1,0,0,0,0,CM,182.0,22,125000,10274
+1269872,Pedro Martins,Brazil,midfielder_long,2,5.1,0,0,0,0,RM,175.0,24,350000,197693
+1271367,Du Queiroz,Brazil,midfielder_long,2,6.26,0,0,0,0,"CM,CDM",171.0,25,2100000,6305
+1272356,Diogenes,Brazil,keeper_long,0,5.1,0,0,0,0,GK,186.0,24,130000,8514
+1274397,Leonardo Diaz,Peru,defender_long,1,5.1,0,0,0,1,CB,184.0,21,350000,1848
+1276550,Lucas Belezi,Brazil,defender_long,1,7.11,0,0,0,0,CB,186.0,22,120000,10273
+1280332,Alexis Alvarino,Argentina,defender_long,1,6.94,0,0,0,0,CB,184.0,24,30000,1626
+1282076,Halls,Brazil,keeper_long,0,6.79,0,0,0,1,GK,198.0,25,350000,109706
+1283773,Mauricio Garcez,Brazil,attacker_long,3,6.26,0,0,0,0,"ST,LM,LW,RW",183.0,28,1500000,10274
+1284942,Thiago Rodrigues,Brazil,attacker_long,3,6.7,1,0,0,3,"RW,LW",180.0,24,750000,104821
+1285291,Luciano Rodriguez,Uruguay,attacker_long,3,6.16,0,0,0,1,ST,179.0,21,7000000,7877
+1294035,Lucas Cardoso,Brazil,attacker_long,3,6.44,0,0,0,0,"RW,ST",189.0,24,750000,197815
+1296383,Gustavo Maia,Brazil,attacker_long,3,6.32,0,0,0,0,ST,168.0,24,500000,6305
+1298240,Gabriel Falcao,Brazil,midfielder_long,2,5.1,0,0,0,0,CM,173.0,24,350000,10277
+1302920,Cleiton Santos,Brazil,defender_long,1,5.1,0,0,0,0,CB,194.0,22,650000,9770
+1312034,Guillermo Enrique,Argentina,defender_long,1,5.1,0,0,0,1,RB,174.0,25,1300000,6398
+1312459,Miguel Terceros,Bolivia,attacker_long,3,7.1,2,1,0,1,"RW,CAM,RM",177.0,21,800000,1757
+1312834,Diego,Brazil,defender_long,1,7.26,0,2,0,1,"RB,CDM,RM,RWB",175.0,30,1300000,172341
+1313924,Pablo Maia,Brazil,midfielder_long,2,6.2,0,0,0,2,CDM,178.0,23,12000000,10277
+1317541,Matheus Felipe,Brazil,defender_long,1,7.11,1,0,0,1,CB,186.0,26,1500000,165545
+1320166,Yago Santos,Brazil,midfielder_long,2,6.36,0,0,0,0,CM,182.0,22,75000,1757
+1320168,Jhonatan,Brazil,midfielder_long,2,7.51,2,1,0,1,"CAM,LW,CM,RW",178.0,22,4200000,109705
+1320170,Kaiky Naves,Brazil,defender_long,1,5.7,0,0,0,0,CB,180.0,23,2500000,10283
+1320176,Wesley,Brazil,defender_long,1,7.52,0,1,0,3,"RB,RWB",178.0,21,9500000,9770
+1320947,Ataide,Brazil,midfielder_long,2,6.31,0,0,0,0,"CM,CAM",177.0,21,200000,197815
+1320951,Habraao,Brazil,defender_long,1,6.87,0,0,1,2,CB,184.0,23,250000,10273
+1320953,Vitinho,Brazil,attacker_long,3,5.1,0,0,0,0,RW,181.0,22,330000,581838
+1320957,Romulo,Brazil,defender_long,1,7.36,0,0,0,0,CB,182.0,21,175000,10272
+1320958,Matheus Cunha,Brazil,keeper_long,0,5.1,0,0,0,0,GK,181.0,24,3500000,9770
+1331904,Paulo Baya,Brazil,attacker_long,3,6.91,1,1,0,0,"LW,LM,ST",184.0,25,400000,9863
+1334428,Rai,Brazil,midfielder_long,2,7.12,0,0,0,1,"RM,RW",175.0,23,250000,198135
+1335761,Gustavo Martins,Brazil,defender_long,1,7.47,0,0,0,1,"CB,RB",191.0,22,950000,9769
+1336899,Adriano Martins,Brazil,defender_long,1,6.39,0,0,0,1,CB,193.0,28,400000,10274
+1336917,Nata,Brazil,defender_long,1,6.34,0,0,0,0,CB,180.0,23,900000,10274
+1338320,Lele,Brazil,attacker_long,3,5.98,0,0,0,0,ST,189.0,27,1500000,172341
+1339347,Vitor Roque,Brazil,attacker_long,3,6.68,2,0,0,2,ST,174.0,20,22000000,10283
+1340527,Erick Pulga,Brazil,attacker_long,3,7.36,0,2,0,1,"LW,LM,CAM",169.0,24,2300000,7877
+1350129,Rwan Cruz,Brazil,attacker_long,3,6.2,0,0,0,0,"ST,CAM",187.0,24,3800000,8517
+1350423,Quirino,Brazil,attacker_long,3,6.17,0,0,0,0,ST,181.0,31,220000,581832
+1350730,Miguel Monsalve,Colombia,attacker_long,3,6.5,0,1,0,2,"CAM,LW,RW,ST",178.0,21,900000,9769
+1350755,Thalisson,Brazil,defender_long,1,5.1,0,0,0,0,CB,190.0,23,400000,9767
+1350768,Nathan,Brazil,midfielder_long,2,6.13,0,0,0,0,CM,174.0,24,110000,104821
+1350775,Yan Souto,Brazil,defender_long,1,6.71,0,0,0,1,CB,188.0,23,400000,7729
+1353373,Alejo Cruz Techera,Uruguay,midfielder_long,2,6.59,0,0,0,1,"CM,LB,LW,LM",169.0,24,600000,165545
+1353470,Brahian Palacios,Colombia,midfielder_long,2,5.1,0,0,0,0,"ST,RM",182.0,22,2000000,10272
+1354485,Hercules,Brazil,midfielder_long,2,6.77,1,0,0,1,"CDM,CM,RW,CAM",178.0,24,5500000,9863
+1354491,Joaquin Lavega,Uruguay,attacker_long,3,5.1,0,0,0,0,"LW,ST,RW",174.0,20,2300000,9863
+1354542,Young,Brazil,keeper_long,0,5.1,0,0,0,0,GK,202.0,23,130000,10277
+1355337,Marcos Victor,Brazil,defender_long,1,5.1,0,0,0,0,CB,184.0,23,400000,172341
+1355497,Da Silva,Brazil,defender_long,1,5.1,0,0,0,0,CB,192.0,24,550000,163782
+1355574,Giovane Nascimento,Brazil,attacker_long,3,5.1,0,0,0,0,ST,184.0,21,2000000,9808
+1355637,Rodriguinho,Brazil,attacker_long,3,5.89,0,0,0,0,"LW,RW,LM",171.0,21,650000,9781
+1355858,Negueba,Brazil,attacker_long,3,6.52,0,0,0,2,"RW,RM,CM",171.0,25,600000,163782
+1357064,Angel de la Cruz,Peru,keeper_long,0,5.1,0,0,0,0,GK,197.0,23,90000,6398
+1357732,Matheusinho,Brazil,defender_long,1,7.76,3,1,0,2,RB,175.0,26,950000,197815
+1357756,Lucas Lima,Brazil,midfielder_long,2,5.96,0,0,0,0,"CM,CDM",172.0,24,400000,172341
+1358345,Agustin Giay,Argentina,defender_long,1,7.2,0,0,0,0,"RB,CB,RWB",180.0,21,9000000,10283
+1359383,Andre Dhominique,Brazil,midfielder_long,2,5.1,0,0,0,0,RM,178.0,21,850000,7877
+1362306,Bernardo Schappo,Brazil,defender_long,1,7.29,1,0,0,0,CB,191.0,26,850000,109706
+1362517,Rodrigo Atencio,Argentina,midfielder_long,2,6.36,0,0,0,1,"CM,RW,RM,LM",175.0,22,3800000,6305
+1362615,Kawan,Brazil,defender_long,1,5.1,0,0,0,0,CB,188.0,22,130000,10274
+1362852,Cristian Renato,Brazil,attacker_long,3,6.6,1,1,0,2,ST,189.0,25,65000,163782
+1368559,Yomar Rocha,Bolivia,defender_long,1,5.1,1,0,0,0,"RB,RWB",178.0,21,800000,5983
+1372923,Chrystian Barletta,Brazil,attacker_long,3,6.69,2,0,0,0,"LM,RW,LW,ST",178.0,23,1700000,6305
+1373118,David Ricardo,Brazil,defender_long,1,6.72,0,0,1,0,CB,189.0,22,1800000,8517
+1373167,Petterson,Brazil,midfielder_long,2,6.3,0,0,0,0,LM,181.0,21,700000,10274
+1377649,Miqueias,Brazil,midfielder_long,2,6.56,1,0,0,2,"CM,CDM,RM",187.0,23,300000,1757
+1379296,Willian Machado,Brazil,defender_long,1,7.19,0,0,0,1,CB,185.0,28,650000,172341
+1380775,Breno Bidon,Brazil,midfielder_long,2,6.81,0,1,0,2,"CDM,CAM,CM,LW",174.0,20,7500000,9808
+1380776,Leonardo Mana,Brazil,defender_long,1,6.71,0,0,0,0,RB,179.0,21,850000,9808
+1382475,Rodriguinho,Brazil,midfielder_long,2,6.44,0,0,0,3,CAM,185.0,21,3500000,10277
+1384473,Gabriel Xavier,Brazil,defender_long,1,6.3,0,0,0,1,"CB,RB",180.0,24,3700000,7877
+1384965,Kevyson,Brazil,defender_long,1,5.85,0,0,0,0,LB,174.0,21,850000,8514
+1388142,Wallisson,Brazil,midfielder_long,2,6.45,0,0,0,2,"CM,RW,CDM",184.0,27,550000,9767
+1388163,Stenio,Brazil,attacker_long,3,6.58,0,0,0,2,"RW,LW,ST",180.0,22,800000,1757
+1391209,Jair Filho,Brazil,defender_long,1,7.3,0,1,0,0,CB,198.0,20,4800000,8517
+1396483,Misael Sosa,Argentina,attacker_long,3,5.1,2,0,0,2,"ST,CM,RW,RM",170.0,23,450000,1848
+1400722,Werik Popo,Brazil,attacker_long,3,6.46,1,1,1,0,ST,190.0,23,400000,7729
+1400888,Rafinha,Brazil,attacker_long,3,5.1,0,0,0,0,ST,173.0,22,250000,10274
+1402098,Cipriano,Brazil,defender_long,1,5.1,0,0,0,0,CB,196.0,22,300000,10274
+1406628,Douglas Mendes,Brazil,defender_long,1,5.1,0,0,0,0,CB,189.0,20,2000000,109705
+1407217,Henry Mosquera,Colombia,attacker_long,3,7.05,0,0,0,0,"LW,RW,ST",175.0,23,1500000,109705
+1410538,Arthur,Brazil,attacker_long,3,6.26,0,0,0,0,ST,184.0,22,700000,6305
+1412963,Gabriel Delfim,Brazil,keeper_long,0,5.1,0,0,0,0,GK,189.0,22,150000,10272
+1414404,Romulo,Brazil,attacker_long,3,6.24,0,0,0,0,LW,177.0,23,1800000,172341
+1414577,Matheus Goncalves,Brazil,attacker_long,3,6.12,0,0,0,0,RW,175.0,19,1600000,9770
+1415886,Leo Alaba,Brazil,defender_long,1,6.89,0,1,0,0,"RB,RWB",179.0,25,650000,7729
+1418741,Catriel Cabellos,Peru,midfielder_long,2,5.1,0,0,0,1,"CM,LM,CDM,RM",172.0,20,450000,1848
+1418761,Caetano,Brazil,midfielder_long,2,5.1,0,0,0,0,"CM,CAM",191.0,23,130000,109705
+1419325,Luis Gaspar,Brazil,midfielder_long,2,6.32,1,0,0,1,LM,180.0,22,30000,104822
+1420843,Andrey,Brazil,midfielder_long,2,6.89,1,0,0,0,"LB,LM",182.0,23,33000,104822
+1432653,Chase Villanueva,USA,midfielder_long,2,5.1,0,0,0,0,CM,177.0,23,130000,4409
+1432692,Mauricio Arrasco,Peru,midfielder_long,2,5.1,0,0,0,0,"CM,CAM",173.0,20,150000,6398
+1432694,Nicolas Amasifuen,Peru,defender_long,1,5.1,0,0,0,1,CB,180.0,19,100000,6398
+1432728,Diego Enriquez,Peru,keeper_long,0,5.1,0,0,0,1,GK,185.0,23,450000,1848
+1432790,Hugo Ancajima,Peru,defender_long,1,5.1,1,0,0,1,RWB,180.0,27,380000,4409
+1433271,Ariel Palacio,Brazil,midfielder_long,2,6.07,0,0,0,1,CAM,178.0,26,400000,165545
+1433363,Fernando,Brazil,defender_long,1,6.88,0,0,0,1,LB,181.0,25,400000,10273
+1434500,Ivan Roman,Chile,defender_long,1,6.54,0,0,0,1,CB,183.0,18,1300000,10272
+1435445,Lorran,Brazil,midfielder_long,2,5.1,0,0,0,0,"CAM,RW",173.0,18,10000000,9770
+1436133,Facundo Bernal,Uruguay,midfielder_long,2,6.82,0,0,0,2,"CDM,CM,RM",187.0,21,1700000,9863
+1436176,Mateo Ponte,Uruguay,defender_long,1,6.53,1,0,0,1,RB,183.0,22,1400000,8517
+1436321,Dodozinho,Brazil,midfielder_long,2,6.87,1,0,0,0,"CM,LM,LW,ST,RW,CAM",171.0,23,360000,109706
+1441321,Lucca,Brazil,attacker_long,3,6.32,0,0,0,0,ST,180.0,22,950000,8702
+1444321,Railan,Brazil,defender_long,1,6.72,1,0,0,0,RB,185.0,25,125000,104822
+1448300,Gustavinho,Brazil,midfielder_long,2,6.33,0,0,0,0,"CM,RW,CAM",176.0,21,2300000,109705
+1457947,Ruan Ribeiro,Brazil,attacker_long,3,6.09,0,0,0,2,"ST,RW,LW",177.0,21,200000,109706
+1458596,Ruben Lezcano,Paraguay,midfielder_long,2,6.13,0,0,0,0,"CAM,CM",178.0,21,4300000,9863
+1458868,Deivid Washington,Brazil,attacker_long,3,6.12,1,0,0,0,ST,187.0,19,10000000,8514
+1459255,Fabrizio Peralta,Paraguay,midfielder_long,2,5.1,0,0,0,0,"CDM,CM",168.0,22,1800000,10273
+1459404,Sidnei,Brazil,keeper_long,0,5.1,0,0,0,0,GK,191.0,22,130000,163782
+1459546,Juan Christian,Brazil,attacker_long,3,6.67,1,0,0,0,"RW,RM,RB",177.0,24,480000,197815
+1459547,Ian Luccas,Brazil,midfielder_long,2,6.42,0,0,0,0,"CM,RM",184.0,22,550000,581832
+1459564,Kaiki,Brazil,defender_long,1,7.46,0,2,0,2,LB,172.0,22,1800000,9781
+1459652,Andre,Brazil,attacker_long,3,6.39,0,0,0,0,LW,189.0,23,1300000,9769
+1459657,Cauan Barros,Brazil,midfielder_long,2,7.11,1,0,0,3,"CM,CDM,RM,CAM",183.0,21,550000,1757
+1459658,Rodrigo Alves,Brazil,midfielder_long,2,5.1,0,0,0,0,LM,176.0,22,1300000,10276
+1459659,Paulinho,Brazil,defender_long,1,5.1,0,0,0,0,RB,172.0,20,500000,10276
+1459694,Yuri,Brazil,keeper_long,0,5.1,0,0,0,0,GK,190.0,24,60000,7733
+1459742,Cadu,Brazil,attacker_long,3,5.1,0,0,0,0,"ST,LW",188.0,21,400000,10272
+1459747,Talisson,Brazil,midfielder_long,2,6.51,0,0,0,1,ST,186.0,23,650000,7729
+1459748,Jhonny,Brazil,defender_long,1,6.87,0,0,0,0,"RB,RWB",179.0,23,130000,198135
+1460463,Thiago Mina,Brazil,defender_long,1,5.1,0,0,0,0,CB,191.0,22,75000,7729
+1460476,Felipinho,Brazil,midfielder_long,2,7.03,0,0,0,2,"CM,CDM",183.0,23,350000,10273
+1460502,Luisao,Brazil,defender_long,1,6.21,0,0,0,1,"CB,RB",192.0,21,550000,8514
+1460539,Gazao,Brazil,midfielder_long,2,5.1,0,0,0,0,CM,185.0,23,75000,104821
+1461826,Tiago Gomes,Brazil,keeper_long,0,5.1,0,0,0,0,GK,194.0,22,20000,7877
+1462842,Ronald,Brazil,midfielder_long,2,6.34,0,0,0,0,CM,186.0,22,1800000,9769
+1463337,Isaac,Brazil,attacker_long,3,6.25,0,0,1,1,"LW,RW",170.0,21,1400000,10273
+1463351,Janderson,Brazil,attacker_long,3,6.44,1,0,0,3,"ST,LW",189.0,26,400000,7733
+1463464,Joao Carlos,Brazil,attacker_long,3,6.77,1,0,0,0,RW,168.0,23,180000,7729
+1463467,Leonardo Goncalves,Brazil,midfielder_long,2,5.1,0,0,0,0,"CM,CAM",180.0,23,75000,7729
+1474593,Victor Hugo,Brazil,midfielder_long,2,5.1,0,0,0,0,CDM,182.0,21,100000,9863
+1476480,Renato Marques,Brazil,attacker_long,3,6.05,0,0,0,2,ST,180.0,21,550000,1757
+1476545,Cuiabano,Brazil,defender_long,1,6.91,1,1,0,2,"LB,LM",179.0,22,1400000,8517
+1477030,Mathias Leandro,Brazil,keeper_long,0,5.1,0,0,0,0,GK,183.0,20,90000,10277
+1477371,Ezequiel Oliveira,Brazil,keeper_long,0,5.1,0,0,0,0,GK,185.0,21,20000,9862
+1478295,Rayan,Brazil,attacker_long,3,6.69,1,1,0,0,"RW,ST",186.0,18,12000000,10276
+1481155,Jhoao Velasquez,Peru,defender_long,1,5.1,0,0,0,0,CB,180.0,19,50000,6398
+1481530,Felipe Negrucci,Brazil,midfielder_long,2,5.1,0,0,0,0,"CM,CAM",179.0,21,550000,10277
+1482047,Nathan Ribeiro,Brazil,attacker_long,3,6.47,0,0,0,0,RW,176.0,20,5500000,9769
+1483507,Kayky Almeida,Brazil,defender_long,1,5.1,0,0,0,0,CB,185.0,20,630000,9863
+1489116,Lucas Wingert,Brazil,keeper_long,0,5.1,0,0,0,0,GK,199.0,26,75000,197429
+1489199,Renato Santos,Brazil,defender_long,1,5.1,0,0,0,0,CB,188.0,20,500000,9808
+1489569,Calebe,Brazil,midfielder_long,2,6.25,0,0,0,2,"CM,CAM",187.0,21,350000,197815
+1501917,Viery,Brazil,defender_long,1,6.06,0,0,0,0,LB,185.0,20,20000,9769
+1503651,Ryan,Brazil,midfielder_long,2,6.47,0,0,0,1,"CDM,CM",172.0,21,350000,9808
+1503652,Kayke,Brazil,attacker_long,3,5.1,0,0,0,0,ST,176.0,21,15000,9808
+1503653,Tchoca,Brazil,defender_long,1,6.67,0,0,0,2,CB,192.0,21,350000,9808
+1503654,Wesley Santos,Brazil,defender_long,1,5.1,0,0,0,0,RB,170.0,20,130000,163782
+1509078,Lucas Ronier,Brazil,attacker_long,3,6.92,0,0,0,2,"RW,ST,LW,CM",163.0,20,250000,9767
+1509085,Pedro Luccas,Brazil,keeper_long,0,8.29,0,0,0,1,GK,191.0,21,130000,9767
+1509611,Matheus Belem,Brazil,defender_long,1,5.1,0,0,0,0,CB,186.0,22,900000,197693
+1509713,Dudu,Brazil,midfielder_long,2,5.1,0,0,0,0,CAM,177.0,19,75000,10273
+1511563,Kaue Camargo,Brazil,keeper_long,0,5.1,0,0,0,0,GK,192.0,21,150000,9808
+1526933,Peixoto,Brazil,midfielder_long,2,6.7,0,0,0,0,"CM,CAM",181.0,27,75000,10274
+1532951,Sergio Palacios,Colombia,defender_long,1,6.06,0,0,0,1,CB,195.0,20,1000000,109705
+1535528,Paulinho,Brazil,defender_long,1,6.39,0,0,0,0,LB,183.0,20,130000,1757
+1535529,Samuel,Brazil,defender_long,1,5.94,0,0,0,0,CB,176.0,21,15000,1757
+1555059,Evertton Araujo,Brazil,midfielder_long,2,7.15,1,0,0,0,"CDM,CM",185.0,22,4500000,9770
+1557027,Victinho,Brazil,midfielder_long,2,5.1,0,0,0,0,CM,178.0,20,250000,10272
+1560822,Jhon Velasquez,Bolivia,attacker_long,3,5.1,4,0,0,0,RW,163.0,22,450000,5983
+1569081,Joao Dalla Corte,Brazil,defender_long,1,5.1,0,0,0,0,CB,180.0,18,300000,8702
+1570656,Japa,Brazil,midfielder_long,2,5.1,0,0,0,0,CM,186.0,21,150000,9781
+1578668,Newton,Brazil,midfielder_long,2,6.24,0,0,0,1,"CM,CDM,CAM,CB,RB",188.0,25,200000,8517
+1580773,Luighi,Brazil,attacker_long,3,6.34,0,0,0,0,LW,182.0,19,3500000,10283
+1580774,Estevao,Brazil,attacker_long,3,6.97,0,3,0,3,"RW,CAM,ST",176.0,18,45000000,10283
+1583233,Joao Pedro da Mata,Brazil,defender_long,1,5.1,0,0,0,0,CB,185.0,19,350000,9770
+1590259,Halerrandrio,Brazil,attacker_long,3,5.1,0,0,0,0,ST,175.0,18,20000,9862
+1590302,Eberth Nogueira,Brazil,attacker_long,3,5.1,0,0,0,0,ST,195.0,21,15000,197693
+1590303,Joao Cruz,Brazil,midfielder_long,2,6.58,0,1,0,0,"CM,CAM",170.0,19,20000,10273
+1604908,Victor Guzman,Peru,attacker_long,3,5.1,0,0,0,0,ST,191.0,19,40000,6398
+1604959,Brian Arias,Peru,defender_long,1,5.1,0,0,0,0,CB,186.0,18,45000,6398
+1606408,Robert Santos,Brazil,midfielder_long,2,7.11,2,3,0,1,"CAM,RM,ST,RW",180.0,21,250000,165545
+1613012,Fabrisio Mesias,Peru,keeper_long,0,5.1,0,0,0,0,GK,188.0,18,20000,6398
+1613569,Robson Matheus,Bolivia,midfielder_long,2,5.1,0,0,0,0,"CM,CAM,CDM",174.0,23,850000,5983
+1617877,Maceio,Brazil,attacker_long,3,6.25,0,0,0,1,LW,177.0,21,200000,163782
+1622637,Yarlen,Brazil,attacker_long,3,5.1,0,0,0,0,"RW,LM",178.0,19,40000,8517
+1623126,Yamir del Valle,Peru,midfielder_long,2,5.1,0,0,0,0,"CM,CAM",171.0,19,50000,1848
+1623466,Rodrigo Santos,Brazil,midfielder_long,2,6.3,0,0,0,0,CM,178.0,24,400000,8287
+1625965,Julinho Astudillo,Peru,defender_long,1,5.1,0,0,0,0,CB,175.0,20,20000,4409
+1625967,Jhefferson Rodriguez,Peru,keeper_long,0,5.1,0,0,0,0,GK,177.0,19,40000,4409
+1626265,Kaue,Brazil,midfielder_long,2,5.1,0,0,0,0,"CM,LM",176.0,20,550000,8517
+1626375,Bruno Mendez,Bolivia,midfielder_long,2,5.1,0,0,0,0,"CM,CAM",180.0,18,85000,5983
+1634590,Gustavo Alves,Brazil,attacker_long,3,6.64,1,0,0,0,"LW,RW",179.0,19,600000,8702
+1634624,Igor Serrote,Brazil,defender_long,1,7.42,0,0,0,2,RB,180.0,20,700000,9769
+1636448,Eric Melo,Brazil,defender_long,1,6.93,0,0,0,2,LB,180.0,24,130000,581832
+1636512,JP Chermont,Brazil,defender_long,1,6.56,0,0,0,2,RB,181.0,19,25000,8514
+1636513,Souza,Brazil,defender_long,1,7.21,0,1,0,0,LB,183.0,18,1800000,8514
+1637476,Adriano Filho,Brazil,midfielder_long,2,5.67,0,0,0,1,RM,174.0,20,75000,7729
+1637478,Gabriel Carvalho,Brazil,attacker_long,3,6.41,0,0,0,0,"RW,CAM,LW",168.0,17,11000000,8702
+1637669,Ze Vitor,Brazil,midfielder_long,2,6.22,0,0,0,1,"CM,CAM",194.0,25,300000,163782
+1637671,JP,Brazil,midfielder_long,2,7.19,3,0,0,1,"CAM,CM",176.0,20,75000,104822
+1638434,Vinicius Mendonca,Brazil,attacker_long,3,6.78,0,2,0,1,"LW,RW",174.0,21,600000,109705
+1639687,Jemmes,Brazil,defender_long,1,7.23,1,0,0,1,CB,187.0,25,400000,163782
+1640270,Wallace Yan,Brazil,attacker_long,3,6.63,0,1,0,1,LW,182.0,20,2200000,9770
+1647322,Cesar Bautista,Peru,keeper_long,0,5.1,0,0,0,0,GK,193.0,18,50000,1848
+1648043,Felipe Longo,Brazil,keeper_long,0,5.1,0,0,0,0,GK,189.0,20,30000,9808
+1653425,Lucca Drummond,Brazil,attacker_long,3,5.1,0,0,0,0,ST,189.0,21,20000,8702
+1653432,Ruan Carneiro,Brazil,keeper_long,0,5.1,0,0,0,0,GK,195.0,35,50000,10274
+1653801,Patrick Silva,Brazil,midfielder_long,2,7.06,0,0,0,0,CDM,187.0,21,75000,10272
+1654411,Igao,Brazil,defender_long,1,5.1,0,0,0,0,CB,187.0,17,20000,10277
+1657940,Lucas Barreto,Brazil,keeper_long,0,6.02,0,0,0,0,GK,196.0,23,25000,165545
+1658202,Luis Benedetti,Brazil,defender_long,1,6.92,0,0,0,0,CB,197.0,18,75000,10283
+1661226,Lawan,Brazil,attacker_long,3,5.1,0,0,0,0,ST,180.0,20,15000,7733
+1664778,Sidney,Brazil,midfielder_long,2,5.1,0,0,0,0,CDM,168.0,19,25000,7877
+1665038,Matheus Soares,Brazil,keeper_long,0,5.1,0,0,0,0,GK,190.0,20,20000,10273
+1670318,Ogundana Shola,Nigeria,attacker_long,3,5.1,0,0,0,0,ST,172.0,20,40000,9770
+1675021,Weverton,Brazil,defender_long,1,5.1,0,0,0,0,CB,183.0,22,350000,109706
+1676872,Tevis,Brazil,attacker_long,3,6.96,1,1,0,0,"LW,RW",180.0,19,50000,10273
+1681893,Figueiredo,Brazil,midfielder_long,2,5.1,0,0,0,0,"CM,CAM",177.0,19,30000,10283
+1695283,Caio Garcia,Brazil,midfielder_long,2,5.1,0,0,0,0,"CM,CAM",175.0,21,20000,9770
+1699018,Lucas Ferreira,Brazil,attacker_long,3,6.73,0,0,0,1,RW,187.0,19,100000,10277
+1699022,Ryan Francisco,Brazil,attacker_long,3,6.31,1,0,0,0,ST,175.0,18,25000,10277
+1704391,Thalys,Brazil,attacker_long,3,5.66,0,0,0,0,ST,184.0,20,1200000,10283
+1721789,Allan,Brazil,midfielder_long,2,6.76,1,0,0,0,RWB,174.0,21,1300000,10283
+1732667,Kauan Lindes,Brazil,midfielder_long,2,6.41,0,0,0,0,CM,180.0,21,50000,8517

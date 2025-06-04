@@ -1,0 +1,96 @@
+id,name,short_name,league_id,played,wins,draws,losses,scores_str,goal_con_diff,pts,position,logo_url,country_id,country
+1626,Remo,Remo,8814,10,4,5,1,12-8,4,17,6,https://images.fotmob.com/image_resources/logo/teamlogo/1626_large.png,1,Brazil
+1757,America MG,America MG,8814,10,4,1,5,9-12,-3,13,12,https://images.fotmob.com/image_resources/logo/teamlogo/1757_large.png,1,Brazil
+1844,Oriente Petrolero,Oriente Petrolero,144,8,2,3,3,12-17,-5,9,11,https://images.fotmob.com/image_resources/logo/teamlogo/1844_large.png,3,Bolivia
+1845,Cienciano,Cienciano,131,13,4,5,4,23-19,4,17,10,https://images.fotmob.com/image_resources/logo/teamlogo/1845_large.png,2,Peru
+1848,Sporting Cristal,Sporting Cristal,131,13,7,1,5,22-17,5,22,8,https://images.fotmob.com/image_resources/logo/teamlogo/1848_large.png,2,Peru
+1892,Jorge Wilstermann,Jorge Wilstermann,144,9,1,1,7,6-22,-16,4,15,https://images.fotmob.com/image_resources/logo/teamlogo/1892_large.png,3,Bolivia
+2369,Nautico,Nautico,8971,8,2,3,3,8-5,3,9,12,https://images.fotmob.com/image_resources/logo/teamlogo/2369_large.png,1,Brazil
+2527,The Strongest,The Strongest,144,9,6,1,2,27-15,12,19,3,https://images.fotmob.com/image_resources/logo/teamlogo/2527_large.png,3,Bolivia
+4409,Universitario de Deportes,Universitario de Deportes,131,13,8,2,3,29-12,17,26,1,https://images.fotmob.com/image_resources/logo/teamlogo/4409_large.png,2,Peru
+4410,Alianza Atletico,Alianza Atletico,131,13,8,1,4,20-12,8,25,4,https://images.fotmob.com/image_resources/logo/teamlogo/4410_large.png,2,Peru
+4412,Sport Boys,Sport Boys,131,13,4,4,5,20-21,-1,16,11,https://images.fotmob.com/image_resources/logo/teamlogo/4412_large.png,2,Peru
+4417,FBC Melgar,FBC Melgar,131,13,7,4,2,22-14,8,25,3,https://images.fotmob.com/image_resources/logo/teamlogo/4417_large.png,2,Peru
+5983,Bolivar,Bolivar,144,8,6,1,1,24-8,16,19,2,https://images.fotmob.com/image_resources/logo/teamlogo/5983_large.png,3,Bolivia
+6305,Sport Recife,Sport Recife,268,11,0,3,8,5-18,-13,3,20,https://images.fotmob.com/image_resources/logo/teamlogo/6305_large.png,1,Brazil
+6398,Alianza Lima,Alianza Lima,131,13,8,2,3,16-10,6,26,2,https://images.fotmob.com/image_resources/logo/teamlogo/6398_large.png,2,Peru
+6546,Paysandu,Paysandu,8814,10,0,4,6,5-13,-8,4,20,https://images.fotmob.com/image_resources/logo/teamlogo/6546_large.png,1,Brazil
+7729,Criciuma,Criciuma,8814,10,2,3,5,10-10,0,9,16,https://images.fotmob.com/image_resources/logo/teamlogo/7729_large.png,1,Brazil
+7733,Vitoria,Vitoria,268,11,2,4,5,10-14,-4,10,16,https://images.fotmob.com/image_resources/logo/teamlogo/7733_large.png,1,Brazil
+7817,Guarani,Guarani,8971,8,2,2,4,6-8,-2,8,16,https://images.fotmob.com/image_resources/logo/teamlogo/7817_large.png,1,Brazil
+7877,Bahia,Bahia,268,11,5,3,3,11-11,0,18,6,https://images.fotmob.com/image_resources/logo/teamlogo/7877_large.png,1,Brazil
+8287,Fortaleza,Fortaleza,268,11,2,4,5,10-15,-5,10,17,https://images.fotmob.com/image_resources/logo/teamlogo/8287_large.png,1,Brazil
+8355,Botafogo SP,Botafogo SP,8814,10,2,3,5,10-16,-6,9,17,https://images.fotmob.com/image_resources/logo/teamlogo/8355_large.png,1,Brazil
+8514,Santos FC,Santos FC,268,11,2,2,7,8-12,-4,8,18,https://images.fotmob.com/image_resources/logo/teamlogo/8514_large.png,1,Brazil
+8517,Botafogo RJ,Botafogo RJ,268,10,4,3,3,11-5,6,15,9,https://images.fotmob.com/image_resources/logo/teamlogo/8517_large.png,1,Brazil
+8630,Ponte Preta,Ponte Preta,8971,8,5,1,2,9-7,2,16,1,https://images.fotmob.com/image_resources/logo/teamlogo/8630_large.png,1,Brazil
+8631,Figueirense,Figueirense,8971,8,2,3,3,10-10,0,9,14,https://images.fotmob.com/image_resources/logo/teamlogo/8631_large.png,1,Brazil
+8702,Internacional,Internacional,268,11,2,5,4,12-16,-4,11,14,https://images.fotmob.com/image_resources/logo/teamlogo/8702_large.png,1,Brazil
+9767,Coritiba,Coritiba,8814,10,6,1,3,10-6,4,19,2,https://images.fotmob.com/image_resources/logo/teamlogo/9767_large.png,1,Brazil
+9769,Gremio,Gremio,268,11,4,3,4,11-14,-3,15,12,https://images.fotmob.com/image_resources/logo/teamlogo/9769_large.png,1,Brazil
+9770,Flamengo,Flamengo,268,11,7,3,1,24-4,20,24,1,https://images.fotmob.com/image_resources/logo/teamlogo/9770_large.png,1,Brazil
+9781,Cruzeiro,Cruzeiro,268,11,7,2,2,17-8,9,23,2,https://images.fotmob.com/image_resources/logo/teamlogo/9781_large.png,1,Brazil
+9808,Corinthians,Corinthians,268,11,4,3,4,12-14,-2,15,11,https://images.fotmob.com/image_resources/logo/teamlogo/9808_large.png,1,Brazil
+9862,Goias,Goias,8814,10,7,2,1,13-6,7,23,1,https://images.fotmob.com/image_resources/logo/teamlogo/9862_large.png,1,Brazil
+9863,Fluminense,Fluminense,268,11,6,2,3,15-12,3,20,5,https://images.fotmob.com/image_resources/logo/teamlogo/9863_large.png,1,Brazil
+10272,Atletico MG,Atletico MG,268,11,4,5,2,11-10,1,17,8,https://images.fotmob.com/image_resources/logo/teamlogo/10272_large.png,1,Brazil
+10273,Athletico Paranaense,Athletico Paranaense,8814,10,4,2,4,14-15,-1,14,11,https://images.fotmob.com/image_resources/logo/teamlogo/10273_large.png,1,Brazil
+10274,Juventude,Juventude,268,11,2,2,7,8-24,-16,8,19,https://images.fotmob.com/image_resources/logo/teamlogo/10274_large.png,1,Brazil
+10276,Vasco da Gama,Vasco da Gama,268,11,3,1,7,11-15,-4,10,15,https://images.fotmob.com/image_resources/logo/teamlogo/10276_large.png,1,Brazil
+10277,Sao Paulo,Sao Paulo,268,11,2,6,3,9-11,-2,12,13,https://images.fotmob.com/image_resources/logo/teamlogo/10277_large.png,1,Brazil
+10283,Palmeiras,Palmeiras,268,11,7,1,3,12-8,4,22,4,https://images.fotmob.com/image_resources/logo/teamlogo/10283_large.png,1,Brazil
+49678,Blooming,Blooming,144,9,5,2,2,20-14,6,17,4,https://images.fotmob.com/image_resources/logo/teamlogo/49678_large.png,3,Bolivia
+49720,Aurora,Aurora,144,9,3,2,4,18-18,0,-22,16,https://images.fotmob.com/image_resources/logo/teamlogo/49720_large.png,3,Bolivia
+104821,CRB,CRB,8814,10,5,3,2,11-8,3,18,5,https://images.fotmob.com/image_resources/logo/teamlogo/104821_large.png,1,Brazil
+104822,Avai FC,Avai FC,8814,10,4,4,2,14-9,5,16,9,https://images.fotmob.com/image_resources/logo/teamlogo/104822_large.png,1,Brazil
+104823,Ituano FC,Ituano FC,8971,8,3,3,2,8-7,1,12,8,https://images.fotmob.com/image_resources/logo/teamlogo/104823_large.png,1,Brazil
+109705,Red Bull Bragantino,Red Bull Bragantino,268,11,7,2,2,14-8,6,23,3,https://images.fotmob.com/image_resources/logo/teamlogo/109705_large.png,1,Brazil
+109706,Vila Nova,Vila Nova,8814,10,5,1,4,9-8,1,16,8,https://images.fotmob.com/image_resources/logo/teamlogo/109706_large.png,1,Brazil
+109708,ABC,ABC,8971,8,1,6,1,9-9,0,9,15,https://images.fotmob.com/image_resources/logo/teamlogo/109708_large.png,1,Brazil
+114830,Guabira,Guabira,144,9,3,1,5,16-23,-7,10,8,https://images.fotmob.com/image_resources/logo/teamlogo/114830_large.png,3,Bolivia
+162167,Confianca,Confianca,8971,8,2,1,5,9-14,-5,7,19,https://images.fotmob.com/image_resources/logo/teamlogo/162167_large.png,1,Brazil
+163782,Mirassol,Mirassol,268,11,4,5,2,17-12,5,17,7,https://images.fotmob.com/image_resources/logo/teamlogo/163782_large.png,1,Brazil
+164353,Nacional Potosi,Nacional Potosi,144,8,2,2,4,9-9,0,8,13,https://images.fotmob.com/image_resources/logo/teamlogo/164353_large.png,3,Bolivia
+165147,Ayacucho FC,Ayacucho FC,131,13,2,3,8,10-22,-12,9,17,https://images.fotmob.com/image_resources/logo/teamlogo/165147_large.png,2,Peru
+165148,Sport Huancayo,Sport Huancayo,131,13,8,1,4,20-15,5,25,5,https://images.fotmob.com/image_resources/logo/teamlogo/165148_large.png,2,Peru
+165545,Atletico GO,Atletico GO,8814,10,2,5,3,11-12,-1,11,14,https://images.fotmob.com/image_resources/logo/teamlogo/165545_large.png,1,Brazil
+172206,Caxias,Caxias,8971,8,5,0,3,14-10,4,15,2,https://images.fotmob.com/image_resources/logo/teamlogo/172206_large.png,1,Brazil
+172341,Ceara,Ceara,268,10,4,3,3,11-8,3,15,10,https://images.fotmob.com/image_resources/logo/teamlogo/172341_large.png,1,Brazil
+197398,AO Itabaiana,AO Itabaiana,8971,8,2,1,5,7-11,-4,7,17,https://images.fotmob.com/image_resources/logo/teamlogo/197398_large.png,1,Brazil
+197429,Operario Ferroviario,Operario Ferroviario,8814,10,4,2,4,12-12,0,14,10,https://images.fotmob.com/image_resources/logo/teamlogo/197429_large.png,1,Brazil
+197692,Brusque,Brusque,8971,8,4,2,2,8-6,2,14,3,https://images.fotmob.com/image_resources/logo/teamlogo/197692_large.png,1,Brazil
+197693,Chapecoense AF,Chapecoense AF,8814,10,5,1,4,14-9,5,16,7,https://images.fotmob.com/image_resources/logo/teamlogo/197693_large.png,1,Brazil
+197792,Botafogo PB,Botafogo PB,8971,8,2,3,3,8-7,1,9,13,https://images.fotmob.com/image_resources/logo/teamlogo/197792_large.png,1,Brazil
+197815,Cuiaba,Cuiaba,8814,10,5,3,2,14-10,4,18,4,https://images.fotmob.com/image_resources/logo/teamlogo/197815_large.png,1,Brazil
+197885,Ypiranga RS,Ypiranga RS,8971,8,4,1,3,7-10,-3,13,4,https://images.fotmob.com/image_resources/logo/teamlogo/197885_large.png,1,Brazil
+198135,Volta Redonda,Volta Redonda,8814,10,2,4,4,5-7,-2,10,15,https://images.fotmob.com/image_resources/logo/teamlogo/198135_large.png,1,Brazil
+231931,Sao Bernardo,Sao Bernardo,8971,8,3,2,3,5-6,-1,11,10,https://images.fotmob.com/image_resources/logo/teamlogo/231931_large.png,1,Brazil
+239132,CS Alagoano,CS Alagoano,8971,8,3,4,1,10-7,3,13,6,https://images.fotmob.com/image_resources/logo/teamlogo/239132_large.png,1,Brazil
+298660,Londrina EC,Londrina EC,8971,8,3,4,1,12-8,4,13,5,https://images.fotmob.com/image_resources/logo/teamlogo/298660_large.png,1,Brazil
+305171,Cusco FC,Cusco FC,131,13,7,2,4,25-18,7,23,7,https://images.fotmob.com/image_resources/logo/teamlogo/305171_large.png,2,Peru
+314221,Alianza Universidad,Alianza Universidad,131,13,1,4,8,11-25,-14,7,19,https://images.fotmob.com/image_resources/logo/teamlogo/314221_large.png,2,Peru
+412808,Anapolis FC,Anapolis FC,8971,8,0,6,2,6-9,-3,6,20,https://images.fotmob.com/image_resources/logo/teamlogo/412808_large.png,1,Brazil
+414725,Tombense FC,Tombense FC,8971,8,2,4,2,8-8,0,10,11,https://images.fotmob.com/image_resources/logo/teamlogo/414725_large.png,1,Brazil
+425692,CD UT Cajamarca,CD UT Cajamarca,131,13,4,2,7,14-29,-15,14,14,https://images.fotmob.com/image_resources/logo/teamlogo/425692_large.png,2,Peru
+509487,Maringa FC,Maringa FC,8971,8,3,4,1,13-11,2,13,7,https://images.fotmob.com/image_resources/logo/teamlogo/509487_large.png,1,Brazil
+536945,Comerciantes Unidos,Comerciantes Unidos,131,12,1,5,6,14-23,-9,8,18,https://images.fotmob.com/image_resources/logo/teamlogo/536945_large.png,2,Peru
+581832,Ferroviaria,Ferroviaria,8814,10,2,6,2,9-9,0,12,13,https://images.fotmob.com/image_resources/logo/teamlogo/581832_large.png,1,Brazil
+581838,Novorizontino,Novorizontino,8814,10,5,4,1,13-7,6,19,3,https://images.fotmob.com/image_resources/logo/teamlogo/581838_large.png,1,Brazil
+741328,Los Chankas,Los Chankas,131,13,3,6,4,18-19,-1,15,12,https://images.fotmob.com/image_resources/logo/teamlogo/741328_large.png,2,Peru
+805913,Always Ready,Always Ready,144,9,7,2,0,29-9,20,23,1,https://images.fotmob.com/image_resources/logo/teamlogo/805913_large.png,3,Bolivia
+879029,Universitario de Vinto,Universitario de Vinto,144,9,3,3,3,11-15,-4,12,6,https://images.fotmob.com/image_resources/logo/teamlogo/879029_large.png,3,Bolivia
+899260,Floresta,Floresta,8971,8,3,3,2,5-5,0,12,9,https://images.fotmob.com/image_resources/logo/teamlogo/899260_large.png,1,Brazil
+916336,Binacional,Binacional,131,13,3,4,6,15-23,-8,13,15,https://images.fotmob.com/image_resources/logo/teamlogo/916336_large.png,2,Peru
+920788,Deportivo Garcilaso,Deportivo Garcilaso,131,14,7,2,5,24-14,10,23,6,https://images.fotmob.com/image_resources/logo/teamlogo/920788_large.png,2,Peru
+920789,Atletico Grau,Atletico Grau,131,12,3,6,3,17-18,-1,15,13,https://images.fotmob.com/image_resources/logo/teamlogo/920789_large.png,2,Peru
+958325,Independiente Petrolero,Independiente Petrolero,144,9,2,3,4,15-19,-4,9,10,https://images.fotmob.com/image_resources/logo/teamlogo/958325_large.png,3,Bolivia
+1074622,Real Tomayapo,Real Tomayapo,144,9,1,6,2,8-10,-2,9,9,https://images.fotmob.com/image_resources/logo/teamlogo/1074622_large.png,3,Bolivia
+1104719,Asociacion Deportiva Tarma,Asociacion Deportiva Tarma,131,14,5,4,5,22-24,-2,19,9,https://images.fotmob.com/image_resources/logo/teamlogo/1104719_large.png,2,Peru
+1116984,Retro FC,Retro FC,8971,8,2,1,5,4-8,-4,7,18,https://images.fotmob.com/image_resources/logo/teamlogo/1116984_large.png,1,Brazil
+1221604,Athletic Club,Athletic Club,8814,10,2,0,8,8-18,-10,6,19,https://images.fotmob.com/image_resources/logo/teamlogo/1221604_large.png,1,Brazil
+1297060,San Antonio Bulo Bulo,San Antonio Bulo Bulo,144,9,2,3,4,16-22,-6,9,12,https://images.fotmob.com/image_resources/logo/teamlogo/1297060_large.png,3,Bolivia
+1297346,ABB,ABB,144,9,3,3,3,8-10,-2,12,5,https://images.fotmob.com/image_resources/logo/teamlogo/1297346_large.png,3,Bolivia
+1340094,Amazonas FC,Amazonas FC,8814,10,1,4,5,6-14,-8,7,18,https://images.fotmob.com/image_resources/logo/teamlogo/1340094_large.png,1,Brazil
+1504766,CDT Real Oruro,CDT Real Oruro,144,9,1,5,3,9-12,-3,8,14,https://images.fotmob.com/image_resources/logo/teamlogo/1504766_large.png,3,Bolivia
+1504770,GV San Jose,GV San Jose,144,8,3,2,3,8-13,-5,11,7,https://images.fotmob.com/image_resources/logo/teamlogo/1504770_large.png,3,Bolivia
+1573153,ADC Juan Pablo II,ADC Juan Pablo II,131,12,3,2,7,13-20,-7,11,16,https://images.fotmob.com/image_resources/logo/teamlogo/1573153_large.png,2,Peru
