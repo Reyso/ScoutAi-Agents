@@ -1,16 +1,15 @@
 from crewai import Agent
-from tools.database_tool import (scout_goalkeeper, scout_defender, 
-                               scout_midfielder, scout_attacker)
+from tools.database_tool import (
+    scout_goalkeeper, scout_defender,
+    scout_midfielder, scout_attacker
+)
 
 coach_agent = Agent(
     role="Técnico Especialista em Formações Táticas",
-    goal="Montar um time equilibrado para o sistema 4-3-3",
-    backstory="""Você é um técnico que domina análise de desempenho por posição específica.
-    Sabe exatamente que atributos são essenciais para cada role no seu sistema de jogo.""",
-    tools=[scout_goalkeeper, scout_defender, scout_midfielder, scout_attacker],
+    goal="Definir os requisitos técnicos ideais para montar um time no esquema 4-3-3 e 4-2-3-1.",
+    backstory="Você é o técnico do Paysandu e está focado em encontrar atletas que se encaixem no seu estilo tático e características desejadas por posição.",
+    tools=[],  # técnico não usa ferramentas, só raciocina
     verbose=True,
     memory=True,
-    max_iter=7,
     allow_delegation=False,
-    # step_callback=lambda x: print(f"Técnico está analisando: {x.description}")
 )
