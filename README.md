@@ -143,7 +143,7 @@ Pode conferir o banco de dados utilziado em `database\data_fute.db` desenvolvido
 ### Transfermarkt
 - Valores de mercado atualizados
 ### Estrutura do Banco de Dados
- - Tabela players com 15 atributos por jogador  
+ - Tabela "players" com os atributos por jogador  
 
 | Atributo          | Descrição                               |
 | ----------------- | --------------------------------------- |
