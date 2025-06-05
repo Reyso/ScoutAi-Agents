@@ -42,8 +42,10 @@ ScoutAI-Agents/
 │   └── database_tool.py # Tool para Consultas SQL
 ├── tasks/
 │   └── negotiation.py   # Task para os AI Agents
-└── main.py              # Pipeline principal
-└── report.md            # Relatório final dos jogadores 
+├── main.py              # Pipeline principal
+└── report.md            # Relatório final dos jogadores selecionados             
+
+
 ```
 
 
