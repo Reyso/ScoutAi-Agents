@@ -20,6 +20,7 @@ Projeto  desenvolvido para demonstrar habilidades em automação com agentes int
 graph LR
     A[API Football Data] -->|Coleta Automatizada| B[(Banco de Dados)]
     C[Transfermarkt] -->|Coleta Manual| B
+    B --> D[Agente Técnico]
     D -->|Critérios Táticos| E[Agente Executivo]
     E -->|Consultas Filtradas| B
     E --> F[Relatório Estratégico] 
@@ -35,14 +36,14 @@ O ScoutAI é um sistema de recomendação de jogadores que combina análise téc
 ```
 ScoutAI-Agents/
 ├── agents/
-│   ├── coach.py       # Lógica do técnico
-│   └── executive.py   # Lógica do executivo
+│   ├── coach.py       # AI Agents Técnico de futebol
+│   └── executive.py   # AI Agents Executivo de futebol
 ├── database/
 │   └── data_fute.db   # Banco SQLite
 ├── tools/
-│   └── database_tool.py # Consultas SQL
+│   └── database_tool.py # Tool para Consultas SQL
 ├── tasks/
-│   └── negotiation.py   # Fluxo de trabalho
+│   └── negotiation.py   # Task para os AI Agents
 └── main.py            # Pipeline principal
 
 ```
@@ -83,15 +84,15 @@ Fluxo de Trabalho:
 
 # Fonte de dados/ Banco de dados e estrutura
 Pode conferir o banco de dados utilziado em `database\data_fute.db` desenvolvido em sqlite3.
-## API Football Data
+### API Football Data
 - Estatísticas de desempenho
 - Cobertura da Séries A/B/C do Brasil + Ligas Argentina/Bolívia/Paraguai
-## Transfermarkt
+### Transfermarkt
 - Valores de mercado atualizados
-## Estrutura do Banco de Dados
+### Estrutura do Banco de Dados
  - Tabela players com 15 atributos por jogador  
 
-
+--- 
 
 # Entrada do sistema
 O parâmetro é definido na TASK `negotiation.py` tribuida ao técnico, que sugere atletas que se encaixem no perfil
