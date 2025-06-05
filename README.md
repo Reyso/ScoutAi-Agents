@@ -29,6 +29,17 @@ graph LR
     C -->|Retorna dados| B
     B -->|Gera| D[Relatório Tático-Financeiro]
 ```
+
+```mermaid
+graph LR
+    A[API Football Data] -->|Coleta Automatizada| B[(Banco de Dados)]
+    C[Transfermarkt] -->|Coleta Manual| B
+    B --> D[Agente Técnico]
+    D -->|Critérios Táticos| E[Agente Executivo]
+    E -->|Consultas Filtradas| B
+    E --> F[Relatório Estratégico] 
+```
+
 ## 👨‍💼 Agentes e seus Papéis
 ### Agente técnico
 Responsabilidade: Traduzir necessidades táticas em critérios mensuráveis
