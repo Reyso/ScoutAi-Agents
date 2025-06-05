@@ -129,7 +129,7 @@ ____
 | --- | --- |
 | Python | Scrips e implementação|
 | CrewAI | Framework para criação e coordenação de sistemas multiagentes|
-| Chagpt 4.0 nano | Modelo de LLM responsável pela tomada de decisão dos agentes |
+| Chagpt 4.1 nano | Modelo de LLM responsável pela tomada de decisão dos agentes |
 | PlayerScoutTool | Tool desenvolvida para conexão e query no banco de dados|
 | SQLite | Armazenamento e consulta dos dados de jogadores |
 
