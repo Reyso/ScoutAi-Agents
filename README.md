@@ -7,20 +7,14 @@
 
 ## 👨🏻‍💻 Sobre o Projeto
 
-Projeto desenvolvido para praticar habilidades em:
-- **Automação de processos** com multi-agentes inteligentes
-- **Análise de dados** sob restrições financeiras
-- **Integração entre** critérios técnicos e realidade de mercado
 
-## 📌 Visão Geral
+Projeto  desenvolvido para demonstrar habilidades em automação com agentes inteligentes, tratamento e análise de dados. Simula um sistema  de scouting para clubes sul-americanos.
 
-O ScoutAI é um sistema de recomendação de jogadores que combina análise técnica e financeira para auxiliar clubes sul-americanos no mercado de transferências. Através de agentes IA especializados, o sistema:
+<!-- - **Critérios táticos** do corpo técnico  
+- **Restrições financeiras** da diretoria  
+- **Dados reais** de desempenho e mercado -->
 
-- Interpreta requisitos táticos do corpo técnico
-- Cruza com dados reais de desempenho e valor de mercado
-- Recomenda os jogadores que melhor atendem aos critérios dentro do orçamento disponível
-
-## 🏗️ Arquitetura do Sistema
+## 🚀 Overview
 
 ```mermaid
 graph LR
@@ -31,6 +25,29 @@ graph LR
     E -->|Consultas Filtradas| B
     E --> F[Relatório Estratégico] 
 ```
+
+O ScoutAI é um sistema de recomendação de jogadores que combina análise técnica e financeira para auxiliar clubes sul-americanos no mercado de transferências. Através de agentes IA especializados, o sistema:
+
+- Interpreta requisitos táticos do corpo técnico
+- Cruza com dados reais de desempenho e valor de mercado
+- Recomenda os jogadores que melhor atendem aos critérios dentro do orçamento disponível
+
+# 📋 Estrutura do Projeto
+```
+ScoutAI-Agents/
+├── agents/
+│   ├── coach.py       # Lógica do técnico
+│   └── executive.py   # Lógica do executivo
+├── database/
+│   └── data_fute.db   # Banco SQLite
+├── tools/
+│   └── database_tool.py # Consultas SQL
+├── tasks/
+│   └── negotiation.py   # Fluxo de trabalho
+└── main.py            # Pipeline principal
+
+```
+
 
 ## 👨‍💼 Agentes e seus Papéis
 ### Agente técnico
@@ -54,15 +71,27 @@ Fluxo de Trabalho:
 - Aplica camada de análise financeira;
 - Gera relatório com as 3 melhores jogadores opções por posição com justificativa;
 
-# Frameworks e Pacotes
+# ⚙️ Tecnologias Utilziadas
 | Tecnologia | Aplicação |
 | --- | --- |
-| CrewAI | Framework para criação e coordenação dos agentes|
+| Python | Scrips e implementação|
+| CrewAI | Framework para criação e coordenação de sistemas multiagentes|
+| Chagpt 4.0 nano | Modelo de LLM responsável pela tomada de decisão dos agentes |
+| PlayerScoutTool | Tool desenvolvida para conexão e query no banco de dados|
 | SQLite | Armazenamento e consulta dos dados de jogadores |
 
-# Fonte de dados
-- API Football Data: Estatísticas de desempenho
-- Transfermarkt: Valores de mercado e informações complementares
+
+
+# Fonte de dados/ Banco de dados e estrutura
+Pode conferir o banco de dados utilziado em `database\data_fute.db` desenvolvido em sqlite3.
+## API Football Data
+- Estatísticas de desempenho
+- Cobertura da Séries A/B/C do Brasil + Ligas Argentina/Bolívia/Paraguai
+## Transfermarkt
+- Valores de mercado atualizados
+## Estrutura do Banco de Dados
+ - Tabela players com 15 atributos por jogador  
+
 
 
 # Entrada do sistema
@@ -118,6 +147,10 @@ Relatório Gerado (`report.md`):
 
 ____
 
-# The end
+# 🌐 Contato
 
-Projeto desenvolvido por Reyso Teixeira como parte do portfólio em Ciência/Analise de Dados.
+Para dúvida ou colaborações, sinta-se a vontade em me contatar:
+
+    Author: Reyso Teixeira
+    GitHub: [Reyso Teixeira](https://github.com/Reyso)
+    LinkedIn: [Reyso Teixeira](https://www.linkedin.com/in/reyso-teixeira/)
