@@ -43,6 +43,7 @@ ScoutAI-Agents/
 ├── tasks/
 │   └── negotiation.py   # Task para os AI Agents
 └── main.py              # Pipeline principal
+└── report.md            # Relatório final dos jogadores 
 ```
 
 
