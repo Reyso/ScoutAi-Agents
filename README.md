@@ -1,4 +1,12 @@
-# ⚽ ScoutAI - Sistema Inteligente de Scouting de Futebol
+# ⚽ ScoutAI - Sistema Multi-agentes de Scouting de Futebol
+
+
+## 👨🏻‍💻 Sobre o Projeto
+
+Projeto desenvolvido para praticar habilidades em:
+- **Automação de processos** com multi-agentes inteligentes
+- **Análise de dados** sob restrições financeiras
+- **Integração entre** critérios técnicos e realidade de mercado
 
 ## 📌 Visão Geral
 
