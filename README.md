@@ -20,7 +20,6 @@ Projeto  desenvolvido para demonstrar habilidades em automação com agentes int
 graph LR
     A[API Football Data] -->|Coleta Automatizada| B[(Banco de Dados)]
     C[Transfermarkt] -->|Coleta Manual| B
-    B --> D[Agente Técnico]
     D -->|Critérios Táticos| E[Agente Executivo]
     E -->|Consultas Filtradas| B
     E --> F[Relatório Estratégico] 
