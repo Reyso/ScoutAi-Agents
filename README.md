@@ -149,7 +149,7 @@ ____
 
 # 🌐 Contato
 
-Para dúvida ou colaborações, sinta-se a vontade em me contatar:
+Para dúvidas ou colaborações, sinta-se a vontade em me contatar:
 
 - Author: Reyso Teixeira
 - GitHub: [Reyso](https://github.com/Reyso)
