@@ -27,7 +27,7 @@ graph LR
     E --> F[Relatório Estratégico] 
 ```
 
-```
+
 flowchart TD
     subgraph Coleta
         A1[API Fotmob (RapidAPI)] -->|Coleta automatizada\n(`requests`)| B[SQLite DB: data_fute.db]
@@ -51,7 +51,7 @@ flowchart TD
         E1[ScoutGoleiros / Defensores...] --> B
         E2 --> F[📋 Relatório Estratégico\n`report.md`]
     end
-```
+
 
 O ScoutAI é um sistema de recomendação de jogadores que combina análise técnica e financeira para auxiliar clubes sul-americanos no mercado de transferências. Através de agentes IA especializados, o sistema:
 
