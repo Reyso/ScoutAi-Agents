@@ -1,115 +1,96 @@
-# Relatório da ScoutAI
-_Gerado em: 04/06/2025 13:21_
+# 📝 Relatório Técnico de Reforços - ScoutAI
+_Gerado em: 04/06/2025 21:44_
 
-## Resultado:
+Este relatório foi produzido pela equipe de agentes da ScoutAI.
+Ele contém sugestões de reforços com base em critérios técnicos e financeiros definidos pela comissão técnica e diretoria.
 
-{
-    "goleiros": {
-        "top_options": [
-            {
-                "name": "Alisson",
-                "age": 29,
-                "rating": 8.31,
-                "value": "0.10M",
-                "justification": "Alisson's strong performance metrics and experience at the top levels make him a reliable choice for a fluid game in the 4-3-3 formation."
-            },
-            {
-                "name": "Pedro Luccas",
-                "age": 21,
-                "rating": 8.29,
-                "value": "0.13M",
-                "justification": "Younger with impressive ratings indicate potential growth and value increase."
-            },
-            {
-                "name": "Walter",
-                "age": 37,
-                "rating": 8.06,
-                "value": "0.30M",
-                "justification": "Walter brings exceptional height and experience which adds significant value to the team."
-            }
-        ],
-        "total_cost": "0.53M",
-        "projected_valuation": "Continued performance improvements may see values increase significantly."
-    },
-    "defensores": {
-        "top_options": [
-            {
-                "name": "Thiago Santos",
-                "age": 35,
-                "rating": 7.91,
-                "value": "0.40M",
-                "justification": "Strong in aerial duels and with solid ratings, he provides stability to the defense."
-            },
-            {
-                "name": "Vinicius",
-                "age": 25,
-                "rating": 7.71,
-                "value": "0.15M",
-                "justification": "A younger option with a decent rating and potential for growth in the team's structure."
-            },
-            {
-                "name": "Guilherme Mariano",
-                "age": 25,
-                "rating": 7.63,
-                "value": "0.10M",
-                "justification": "A promising defender showing good metrics and potential for future development."
-            }
-        ],
-        "total_cost": "0.65M",
-        "projected_valuation": "Positive trajectory expected based on strong defensive statistics."
-    },
-    "meio_campistas": {
-        "top_options": [
-            {
-                "name": "Luiz Gustavo",
-                "age": 37,
-                "rating": 7.46,
-                "value": "0.35M",
-                "justification": "Experienced player known for controlling play and solid passing game."
-            },
-            {
-                "name": "Jacy",
-                "age": 27,
-                "rating": 7.44,
-                "value": "0.10M",
-                "justification": "Useful midfielder with good potential to strengthen the team's playmaking."
-            },
-            {
-                "name": "Pierre",
-                "age": 23,
-                "rating": 7.36,
-                "value": "0.07M",
-                "justification": "A young, disciplined option that presents strong potential for future growth."
-            }
-        ],
-        "total_cost": "0.52M",
-        "projected_valuation": "Expected increases assuming performance improvements continue."
-    },
-    "atacantes": {
-        "top_options": [
-            {
-                "name": "Nathan Fogaca",
-                "age": 25,
-                "rating": 7.22,
-                "value": "0.42M",
-                "justification": "Proven goal-scoring ability adds valuable offensive strength."
-            },
-            {
-                "name": "Facundo Labandeira",
-                "age": 29,
-                "rating": 7.18,
-                "value": "0.50M",
-                "justification": "A versatile forward able to contribute in multiple attacking positions."
-            },
-            {
-                "name": "Anselmo",
-                "age": 36,
-                "rating": 7.12,
-                "value": "0.44M",
-                "justification": "Experienced goal-scorer with great ability to finish."
-            }
-        ],
-        "total_cost": "1.36M",
-        "projected_valuation": "Anticipated growth in value with consistent performance."
-    }
-}
+---
+## 📊 Análise e Justificativas por Posição
+
+### 🧤 Goleiro
+- **Nome:** Alisson  
+  **Idade:** 29  
+  **Altura:** 190 cm  
+  **Rating:** 8.31  
+  **Valor:** €100.000  
+- **Justificativa:** Alisson é um goleiro com alto rating e excelente presença na área, ideal para manter a segurança defensiva.
+
+- **Nome:** Pedro Luccas  
+  **Idade:** 21  
+  **Altura:** 191 cm  
+  **Rating:** 8.29  
+  **Valor:** €130.000  
+- **Justificativa:** Com juventude e grande altura, Pedro Luccas se destaca em defesas aéreas e pode ser uma aposta de futuro.
+
+- **Nome:** Walter  
+  **Idade:** 37  
+  **Altura:** 188 cm  
+  **Rating:** 8.06  
+  **Valor:** €300.000  
+- **Justificativa:** Walter tem grande experiência e um rating elevado, oferecendo segurança e confiabilidade na meta.
+
+### 🛡️ Zagueiro
+- **Nome:** Thiago Santos  
+  **Idade:** 35  
+  **Altura:** 181 cm  
+  **Rating:** 7.91  
+  **Valor:** €400.000  
+- **Justificativa:** Thiago é um defensor sólido com um bom rating e experiência, sendo um excelente reforço para a zaga.
+
+- **Nome:** Erik Henrique  
+  **Idade:** 20  
+  **Altura:** 184 cm  
+  **Rating:** 7.85  
+  **Valor:** €80.000  
+- **Justificativa:** Um jovem defensor com grande potencial e um rating promissor, que pode se desenvolver ainda mais na equipe.
+
+- **Nome:** Guilherme Mariano  
+  **Idade:** 25  
+  **Altura:** 190 cm  
+  **Rating:** 7.63  
+  **Valor:** €100.000  
+- **Justificativa:** Guilherme apresenta uma boa altura e atributos defensivos, oferecendo uma boa presença na defesa.
+
+### 🟢 Meio-Campista
+- **Nome:** Luiz Gustavo  
+  **Idade:** 37  
+  **Altura:** 187 cm  
+  **Rating:** 7.46  
+  **Valor:** €350.000  
+- **Justificativa:** Com grande experiência e habilidades no meio-campo, Luiz pode atuar como um líder e organizador.
+
+- **Nome:** Jacy  
+  **Idade:** 27  
+  **Altura:** 192 cm  
+  **Rating:** 7.44  
+  **Valor:** €100.000  
+- **Justificativa:** Jacy é versátil e pode atuar em várias posições no meio-campo, sempre entregando um bom desempenho.
+
+- **Nome:** Netinho  
+  **Idade:** 27  
+  **Altura:** 179 cm  
+  **Rating:** 7.32  
+  **Valor:** €350.000  
+- **Justificativa:** Netinho contribuiu com assistências e tem um bom rating, mostrando sua capacidade criativa.
+
+### ⚽ Atacante
+- **Nome:** Carlao  
+  **Idade:** 32  
+  **Altura:** 185 cm  
+  **Rating:** 7.27  
+  **Valor:** €200.000  
+- **Justificativa:** Carlao é um atacante experiente que pode trazer eficácia ao ataque, sempre contribuindo com gols.
+
+- **Nome:** Nathan Fogaca  
+  **Idade:** 25  
+  **Altura:** 178 cm  
+  **Rating:** 7.22  
+  **Valor:** €420.000  
+- **Justificativa:** Mesmo jovem, Nathan já mostrou seu valor ao marcar gols e com potencial para crescer.
+
+- **Nome:** Facundo Labandeira  
+  **Idade:** 29  
+  **Altura:** 173 cm  
+  **Rating:** 7.18  
+  **Valor:** €500.000  
+- **Justificativa:** Facundo é um jogador ofensivo com boas habilidades e experiência, adequado para reforçar o ataque.
