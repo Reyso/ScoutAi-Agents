@@ -1,5 +1,9 @@
 # ⚽ ScoutAI - Sistema Multi-agentes de Scouting de Futebol
 
+![Python](https://img.shields.io/badge/python-3.10%2B-green)
+![CrewAI](https://img.shields.io/badge/framework-CrewAI-red)
+![SQLite](https://img.shields.io/badge/database-SQLite-blue)
+![Pandas](https://img.shields.io/badge/analysis-Pandas-white)
 
 ## 👨🏻‍💻 Sobre o Projeto
 
@@ -47,4 +51,40 @@ Fluxo de Trabalho:
 - Aplica camada de análise financeira;
 - Gera relatório com as 3 melhores jogadores opções por posição com justificativa;
 
-#
+# Frameworks e Pacotes
+| Tecnologia | Aplicação |
+| --- | --- |
+| CrewAI | Framework para criação e coordenação dos agentes|
+| SQLite | Armazenamento e consulta dos dados de jogadores |
+
+# Fonte de dados
+- API Football Data: Estatísticas de desempenho
+- Transfermarkt: Valores de mercado e informações complementares
+
+# Saida do sistema
+Relatório Gerado (`report.md`):
+
+```
+### 🧤 Goleiro
+- **Nome:** Alisson  
+  **Idade:** 29  
+  **Altura:** 190 cm  
+  **Rating:** 8.31  
+  **Valor:** €100.000  
+- **Justificativa:** Alisson é um goleiro com alto rating e excelente presença na área, ideal para manter a segurança defensiva.
+
+### ⚽ Atacante
+- **Nome:** Carlao  
+  **Idade:** 32  
+  **Altura:** 185 cm  
+  **Rating:** 7.27  
+  **Valor:** €200.000  
+- **Justificativa:** Carlao é um atacante experiente que pode trazer eficácia ao ataque, sempre contribuindo com gols.
+...
+```
+
+____
+
+# The end
+
+Projeto desenvolvido por Reyso Teixeira como parte do portfólio em Ciência/Analise de Dados.
