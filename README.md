@@ -25,7 +25,7 @@ graph LR
     E -->|Consultas Filtradas| B
     E --> F[Relatório Estratégico] 
 ```
- B --> D[Agente Técnico]
+
 
 
 O ScoutAI é um sistema de recomendação de jogadores que combina análise técnica e financeira para auxiliar clubes sul-americanos no mercado de transferências. Através de agentes IA especializados, o sistema:
