@@ -22,8 +22,8 @@ graph LR
     C[Transfermarkt] -->|Coleta Manual| B
     B --> D[Agente Técnico]
     D -->|Critérios Táticos| E[Agente Executivo]
-    E -->|Consultas Filtradas| B
     B -->|Perfil de Jogadores| E
+    E -->|Consultas Filtradas| B
     E --> F[Relatório Estratégico] 
 ```
 
