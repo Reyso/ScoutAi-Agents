@@ -73,6 +73,7 @@ Fluxo de Trabalho:
 
 ```bash
 git clone https://github.com/Reyso/ScoutAi-Agents.git
+cd ScoutAi-Agents
 ```
 ## 2. Crie e ative o ambiente virtual
 
@@ -144,6 +145,18 @@ Pode conferir o banco de dados utilziado em `database\data_fute.db` desenvolvido
 ### Estrutura do Banco de Dados
  - Tabela players com 15 atributos por jogador  
 
+| Atributo          | Descrição                               |
+| ----------------- | --------------------------------------- |
+| `name`            | Nome do jogador                         |
+| `cname`           | País                                    |
+| `age`             | Idade                                   |
+| `height`          | Altura em cm                            |
+| `rating`          | Nota média de performance               |
+| `goals`           | Número de gols                          |
+| `assists`         | Assistências                            |
+| `rcards/ycards`   | Cartões vermelhos/amarelos              |
+| `transferValue`   | Valor estimado de mercado (em €)        |
+| `positionIdsDesc` | Posições jogadas (ex: CB, ST, CAM, etc) |
 
 
 
