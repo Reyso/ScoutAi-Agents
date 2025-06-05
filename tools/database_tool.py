@@ -4,7 +4,7 @@ from crewai.tools import BaseTool
 
 class PlayerScoutTool:
     @staticmethod
-    def search_players(position_type: str, filters: dict) -> str:
+    def search_players(position_type: str, filters: dict) -> list:
         position_map = {
             'goalkeeper': "role = 'keeper_long' AND positionIdsDesc LIKE '%GK%'",
             'defender': "role = 'defender_long' AND positionIdsDesc LIKE '%CB%'",
@@ -14,38 +14,53 @@ class PlayerScoutTool:
 
         base_query = f"""
             SELECT 
-                name, cname, age, height, rating, transferValue, 
+                name, cname, age, height, rating, transferValue,
                 goals, assists, positionIdsDesc
             FROM players
             WHERE {position_map[position_type]}
         """
 
+        # Aplicar filtros recebidos
         if filters.get('min_rating'):
             base_query += f" AND rating >= {filters['min_rating']}"
         if filters.get('max_age'):
             base_query += f" AND age <= {filters['max_age']}"
         if filters.get('min_height'):
             base_query += f" AND height >= {filters['min_height']}"
+        if filters.get('min_goals'):
+            base_query += f" AND goals >= {filters['min_goals']}"
+        if filters.get('max_rcards'):
+            base_query += f" AND rcards <= {filters['max_rcards']}"
+        if filters.get('min_assists'):
+            base_query += f" AND assists >= {filters['min_assists']}"
         if filters.get('max_value'):
             base_query += f" AND transferValue <= {filters['max_value']}"
 
-        base_query += " ORDER BY rating DESC LIMIT 8"
+        # Garantir dados válidos
+        base_query += " AND transferValue > 0 AND height > 0"
+        base_query += " ORDER BY rating DESC LIMIT 5"
 
         conn = sqlite3.connect('database/data_fute.db')
         cursor = conn.cursor()
         cursor.execute(base_query)
-        results = cursor.fetchall()
+        rows = cursor.fetchall()
+        conn.close()
 
-        output = ""
-        for player in results:
-            output += (
-                f"🔍 **{player[0]}** ({player[1]}) | {player[8]}\n"
-                f"- 📊 Rating: {player[4]} | 🎯 G/A: {player[6]}/{player[7]}\n"
-                f"- 📏 {player[3]}cm | 🎂 {player[2]} anos\n"
-                f"- 💰 Valor: €{player[5]/1_000_000:.2f}M\n"
-                f"{'-'*40}\n"
-            )
-        return output or "Nenhum jogador encontrado com esses critérios"
+        # Converter para lista de dicionários
+        results = []
+        for r in rows:
+            results.append({
+                "nome": r[0],
+                "pais": r[1],
+                "idade": r[2],
+                "altura_cm": r[3],
+                "rating": r[4],
+                "valor_eur": r[5],
+                "gols": r[6],
+                "assistencias": r[7],
+                "posicoes": r[8]
+            })
+        return results
 
 
 # ==========================
@@ -54,135 +69,34 @@ class PlayerScoutTool:
 
 class ScoutGoalkeeper(BaseTool):
     name: str = "ScoutGoleiros"
-    description: str = "Busca goleiros com filtros como rating, idade e altura"
-
-    def _run(self, filters: dict) -> str:
+    description: str = "Retorna dados de goleiros com base nos filtros técnicos"
+    def _run(self, filters: dict) -> list:
         return PlayerScoutTool.search_players("goalkeeper", filters)
+
 
 class ScoutDefender(BaseTool):
     name: str = "ScoutDefensores"
-    description: str = "Busca defensores com filtros como rating, idade e altura"
-
-    def _run(self, filters: dict) -> str:
+    description: str = "Retorna dados de zagueiros com base nos filtros técnicos"
+    def _run(self, filters: dict) -> list:
         return PlayerScoutTool.search_players("defender", filters)
-    
+
 
 class ScoutMidfielder(BaseTool):
     name: str = "ScoutMeioCampistas"
-    description: str = "Busca meio-campistas com filtros como rating, idade e altura"
-
-    def _run(self, filters: dict) -> str:
+    description: str = "Retorna dados de meias com base nos filtros técnicos"
+    def _run(self, filters: dict) -> list:
         return PlayerScoutTool.search_players("midfielder", filters)
+
 
 class ScoutAttacker(BaseTool):
     name: str = "ScoutAtacantes"
-    description: str = "Busca atacantes com filtros como rating, idade e altura"
-
-    def _run(self, filters: dict) -> str:
+    description: str = "Retorna dados de atacantes com base nos filtros técnicos"
+    def _run(self, filters: dict) -> list:
         return PlayerScoutTool.search_players("attacker", filters)
 
 
-# Instância das ferramentas para uso nos agentes
+# Ferramentas disponíveis para importação
 scout_goalkeeper = ScoutGoalkeeper()
 scout_defender = ScoutDefender()
 scout_midfielder = ScoutMidfielder()
 scout_attacker = ScoutAttacker()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# --------------------------------
-
-
-# import sqlite3
-# from crewai_tools import Tool
-
-
-# class PlayerScoutTool:
-#     @staticmethod
-#     def search_players(position_type: str, filters: dict) -> str:
-#         """
-#         Busca jogadores com filtros dinâmicos
-#         Args:
-#             position_type: 'defender' | 'midfielder' | 'attacker'
-#             filters: dict com critérios (ex: {'min_rating': 6.0, 'max_age': 27})
-#         """
-#         position_map = {
-#             'defender': "role = 'defender_long' AND positionIdsDesc LIKE '%CB%'",
-#             'midfielder': "role LIKE '%midfielder%' AND positionIdsDesc LIKE '%CM%'",
-#             'attacker': "role LIKE '%forward%' AND positionIdsDesc LIKE '%ST%'"
-#         }
-
-#         base_query = f"""
-#             SELECT 
-#                 name, cname, age, height, rating, transferValue, 
-#                 goals, assists, positionIdsDesc
-#             FROM players
-#             WHERE {position_map[position_type]}
-#         """
-
-#         # Construção dinâmica dos filtros
-#         if filters.get('min_rating'):
-#             base_query += f" AND rating >= {filters['min_rating']}"
-#         if filters.get('max_age'):
-#             base_query += f" AND age <= {filters['max_age']}"
-#         if filters.get('min_height'):
-#             base_query += f" AND height >= {filters['min_height']}"
-#         if filters.get('max_value'):
-#             base_query += f" AND transferValue <= {filters['max_value']}"
-
-#         base_query += " ORDER BY rating DESC LIMIT 5"
-
-#         conn = sqlite3.connect('database/data_fute.db')
-#         cursor = conn.cursor()
-#         cursor.execute(base_query)
-#         results = cursor.fetchall()
-
-#         output = ""
-#         for player in results:
-#             output += (
-#                 f"🔍 **{player[0]}** ({player[1]}) | {player[8]}\n"
-#                 f"- 📊 Rating: {player[4]} | 🎯 G/A: {player[5]}/{player[6]}\n"
-#                 f"- 📏 {player[3]}cm | 🎂 {player[2]} anos\n"
-#                 f"- 💰 Valor: €{player[5]/1000000:.2f}M\n"
-#                 f"{'-'*40}\n"
-#             )
-#         return output or "Nenhum jogador encontrado com esses critérios"
-
-# # Ferramentas instanciadas
-# scout_defender = Tool(
-#     name="ScoutDefensores",
-#     func=lambda filters: PlayerScoutTool.search_players('defender', filters),
-#     description="Busca defesas com filtros personalizáveis"
-# )
-
-# scout_midfielder = Tool(
-#     name="ScoutMeioCampistas",
-#     func=lambda filters: PlayerScoutTool.search_players('midfielder', filters),
-#     description="Busca meio-campistas com filtros personalizáveis"
-# )
-
-# scout_attacker = Tool(
-#     name="ScoutAtacantes",
-#     func=lambda filters: PlayerScoutTool.search_players('attacker', filters),
-#     description="Busca atacantes com filtros personalizáveis"
-# )
