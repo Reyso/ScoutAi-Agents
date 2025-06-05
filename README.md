@@ -8,7 +8,7 @@
 ## 👨🏻‍💻 Sobre o Projeto
 
 
-Projeto  desenvolvido para demonstrar habilidades em automação com agentes inteligentes, tratamento e análise de dados. Simula um sistema  de scouting para clubes sul-americanos.
+Projeto  desenvolvido para praticar habilidades em automação com agentes inteligentes, tratamento e análise de dados. Simula um sistema  de scouting para clubes sul-americanos.
 
 <!-- - **Critérios táticos** do corpo técnico  
 - **Restrições financeiras** da diretoria  
@@ -123,7 +123,7 @@ O parâmetro é definido na TASK `negotiation.py` tribuida ao técnico, que suge
 ```
 
 
-# 📤Saida do sistema
+# 📤Saida do sistema  
 ⚠️ Veja o Relatório Final Gerado em (`report.md`)⚠️
 
 ```
