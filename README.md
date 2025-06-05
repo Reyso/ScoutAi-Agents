@@ -66,60 +66,39 @@ Fluxo de Trabalho:
 - Aplica camada de análise financeira;
 - Gera relatório com as 3 melhores jogadores opções por posição com justificativa;
 
-# ⚙️ Tecnologias Utilziadas
-| Tecnologia | Aplicação |
-| --- | --- |
-| Python | Scrips e implementação|
-| CrewAI | Framework para criação e coordenação de sistemas multiagentes|
-| Chagpt 4.0 nano | Modelo de LLM responsável pela tomada de decisão dos agentes |
-| PlayerScoutTool | Tool desenvolvida para conexão e query no banco de dados|
-| SQLite | Armazenamento e consulta dos dados de jogadores |
 
+# Como executar
 
+## 1. Clone o projeto
 
-# 🛢 Fonte de dados/ Banco de dados e estrutura
-Pode conferir o banco de dados utilziado em `database\data_fute.db` desenvolvido em sqlite3.
-### API Football Data
-- Estatísticas de desempenho
-- Cobertura da Séries A/B/C do Brasil + Ligas Argentina/Bolívia/Paraguai
-### Transfermarkt
-- Valores de mercado atualizados
-### Estrutura do Banco de Dados
- - Tabela players com 15 atributos por jogador  
-
---- 
-
-# 📥 Entrada do sistema
-O parâmetro é definido na TASK `negotiation.py` tribuida ao técnico, que sugere atletas que se encaixem no perfil
-
+```bash
+git clone https://github.com/Reyso/ScoutAi-Agents.git
 ```
-1. **Goleiro**: 
-   - Rating >=6.0
-   - Altura >190cm 
-   - Valor máximo: €300.000 (transferValue < 300000)
+## 2. Crie e ative o ambiente virtual
 
-2. **Zagueiro**: 
-   - Altura >=185cm
-   - Rating >5.6
-   - Gols >=1
-   - Valor máximo: €400.000 (transferValue < 400000)
-
-3. **Meia**: 
-   - Rating >6.5
-   - Cartões vermelhos <2
-   - Assistências >=2
-   - Valor máximo: €450.000 (transferValue < 450000)
-
-4. **Atacante**: 
-   - Rating >6.9
-   - Gols >3
-   - Valor máximo: €500.000 (transferValue < 500000)
-   - Idade <34 anos
+```bash
+conda create -n scoutai python=3.10
+conda activate scoutai
 ```
 
+## 3. Instale as dependências
+
+```bash
+pip install -r requirements.txt
+```
+## 4. Configure a chave da OpenAI
+Crie um arquivo `.env` com:
+```bash
+OPENAI_API_KEY=sk-sua-chave-aqui
+```
+## 5. Execute o projeto
+
+```
+python3 main.py
+```
 
 # 📤Saida do sistema  
-⚠️ Veja o Relatório Final Gerado em (`report.md`)⚠️
+### ⚠️ Veja o Relatório Final Gerado em (`report.md`)⚠️
 
 ```
 ### 🧤 Goleiro
@@ -141,6 +120,34 @@ O parâmetro é definido na TASK `negotiation.py` tribuida ao técnico, que suge
 ```
 
 ____
+
+
+
+# ⚙️ Tecnologias Utilziadas
+| Tecnologia | Aplicação |
+| --- | --- |
+| Python | Scrips e implementação|
+| CrewAI | Framework para criação e coordenação de sistemas multiagentes|
+| Chagpt 4.0 nano | Modelo de LLM responsável pela tomada de decisão dos agentes |
+| PlayerScoutTool | Tool desenvolvida para conexão e query no banco de dados|
+| SQLite | Armazenamento e consulta dos dados de jogadores |
+
+
+
+# 🛢 Fonte de dados/ Banco de dados e estrutura
+Pode conferir o banco de dados utilziado em `database\data_fute.db` desenvolvido em sqlite3.
+### API Football Data
+- Estatísticas de desempenho
+- Cobertura da Séries A/B/C do Brasil + Ligas Argentina/Bolívia/Paraguai
+### Transfermarkt
+- Valores de mercado atualizados
+### Estrutura do Banco de Dados
+ - Tabela players com 15 atributos por jogador  
+
+
+
+
+
 
 # 🌐 Contato
 
