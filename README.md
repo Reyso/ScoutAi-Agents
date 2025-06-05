@@ -16,6 +16,9 @@ Projeto  desenvolvido para praticar habilidades em automação com agentes intel
 
 ## 🚀 Overview
 
+![Image](https://github.com/user-attachments/assets/8139e849-80bc-49d0-b808-42b56c569849)
+
+
 ```mermaid
 graph LR
     A[API Football Data] -->|Coleta Automatizada| B[(Banco de Dados)]
