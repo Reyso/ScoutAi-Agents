@@ -5,7 +5,7 @@ url = "https://free-api-live-football-data.p.rapidapi.com/football-get-list-play
 querystring = {"teamid":"1626"}
 
 headers = {
-	"x-rapidapi-key": "8d31400aa6msh80bbf1ce3eecc9ap1e9d35jsnd45ef4bf0e35",
+	"x-rapidapi-key": "API KEY",
 	"x-rapidapi-host": "free-api-live-football-data.p.rapidapi.com"
 }
 

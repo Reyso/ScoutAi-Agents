@@ -5,12 +5,12 @@ import time
 # Configuração da API
 API_URL = "https://free-api-live-football-data.p.rapidapi.com/football-get-list-player"
 HEADERS = {
-    "x-rapidapi-key": "8d31400aa6msh80bbf1ce3eecc9ap1e9d35jsnd45ef4bf0e35",
+    "x-rapidapi-key": "API KEY",
     "x-rapidapi-host": "free-api-live-football-data.p.rapidapi.com"
 }
 
 # Conexão com o banco
-conn = sqlite3.connect("data_fute.db")
+conn = sqlite3.connect("database/data_fute.db")
 cursor = conn.cursor()
 
 # Criação da tabela

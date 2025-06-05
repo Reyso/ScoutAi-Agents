@@ -6,12 +6,12 @@ league_ids = [268, 8814, 8971,131,144]
 # BrSerieA, BrSerieB, BrasileiroSerieC, PePrimeiraDiv,BoPrimeiraDiv
 
 headers = {
-    "x-rapidapi-key": "5e20a9969bmsh8783b60f65b59dap196468jsn9eaaaaab524e",
+    "x-rapidapi-key": "API KEY",
     "x-rapidapi-host": "free-api-live-football-data.p.rapidapi.com"
 }
 
 # Cria conexão com SQLite
-conn = sqlite3.connect("football.db")
+conn = sqlite3.connect("database/data_fute.db")
 cursor = conn.cursor()
 
 # Cria tabela de times
