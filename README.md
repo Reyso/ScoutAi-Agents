@@ -24,14 +24,6 @@ O ScoutAI é um sistema de recomendação de jogadores que combina análise téc
 
 ```mermaid
 graph LR
-    A[Agente Técnico] -->|Define critérios| B[Agente Executivo]
-    B -->|Consulta| C[(Banco de Dados)]
-    C -->|Retorna dados| B
-    B -->|Gera| D[Relatório Tático-Financeiro]
-```
-
-```mermaid
-graph LR
     A[API Football Data] -->|Coleta Automatizada| B[(Banco de Dados)]
     C[Transfermarkt] -->|Coleta Manual| B
     B --> D[Agente Técnico]
