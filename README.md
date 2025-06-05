@@ -135,15 +135,15 @@ ____
 
 
 
-# 🛢 Fonte de dados/ Banco de dados e estrutura
-Pode conferir o banco de dados utilziado em `database\data_fute.db` desenvolvido em sqlite3.
+# 🛢 Fonte de dados/ Banco de dados e sua estrutura
+Você pode conferir o banco de dados utilziado em `database\data_fute.db` desenvolvido em sqlite3.
 ### API Football Data
 - Estatísticas de desempenho
-- Cobertura da Séries A/B/C do Brasil + Ligas Argentina/Bolívia/Paraguai
+- Cobertura da Séries A/B/C do Brasil + Ligas Argentina/Bolívia/Paraguai  na temporada de 2025
 ### Transfermarkt
 - Valores de mercado atualizados
 ### Estrutura do Banco de Dados
- - Tabela "players" com os atributos por jogador  
+ - Tabela "players" com os atributos por jogador
 
 | Atributo          | Descrição                               |
 | ----------------- | --------------------------------------- |
@@ -158,13 +158,14 @@ Pode conferir o banco de dados utilziado em `database\data_fute.db` desenvolvido
 | `transferValue`   | Valor estimado de mercado (em €)        |
 | `positionIdsDesc` | Posições jogadas (ex: CB, ST, CAM, etc) |
 
+---
 
 
 
 
 # 🌐 Contato
 
-Para dúvidas ou colaborações, sinta-se a vontade em me contatar:
+Para dúvidas ou colaborações, sinta-se a vontade em me contactar:
 
 - Author: Reyso Teixeira
 - GitHub: [Reyso](https://github.com/Reyso)
