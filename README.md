@@ -29,33 +29,29 @@ graph LR
 
 ```mermaid
 flowchart TD
-    subgraph "📥 Coleta de Dados"
-        A1[API Fotmob] -->|Dados de desempenho\nvia RapidAPI| B[(SQLite DB\n`data_fute.db`)]
-        A2[Transfermarkt] -->|Valores de mercado\n(Web Scraping)| B
+    subgraph Coleta
+        A1[API Fotmob (RapidAPI)] -->|Coleta automatizada\n(`requests`)| B[SQLite DB: data_fute.db]
+        A2[Transfermarkt (futuro)] -->|Possível coleta adicional| B
     end
 
-    subgraph "🗃️ Banco de Dados"
-        B --> T1[Tabela `teams`]
-        B --> T2[Tabela `players`]
+    subgraph Banco de Dados
+        B --> T1[Tabela teams]
+        B --> T2[Tabela players]
     end
 
-    subgraph "🤖 Inteligência Artificial"
-        T3[PlayerScoutTool] -->|Consulta com filtros| E2
-        T3 -.->|Módulo:\n`tools.database_tool`| E1
+    subgraph Inteligência
+        T3[Tools (`PlayerScoutTool`)] -->|Acesso com filtros| E2
+        T3 -->|via `tools.database_tool`| E1
     end
 
-    subgraph "⚙️ Pipeline CrewAI"
-        D[Agente Técnico] -->|Define critérios\npor posição| CTX[Contexto\nCompartilhado]
+    subgraph CrewAI
+        D[Agente Técnico] -->|Define critérios\n(filtros por posição)| CTX[🧠 Contexto compartilhado]
         CTX --> E[Agente Executivo]
-        E -->|Aplica filtros| T3
-        E1[ScoutGoleiros\nScoutDefensores...] --> B
-        E2 --> F[📄 Relatório Final\n`report.md`]
+        E -->|Consulta Tools com filtros| T3
+        E1[ScoutGoleiros / Defensores...] --> B
+        E2 --> F[📋 Relatório Estratégico\n`report.md`]
     end
 
-    style Coleta fill:#f9f2d9,stroke:#e8d174
-    style Banco fill:#e6f3ff,stroke:#7db8da
-    style Inteligência fill:#e8f5e9,stroke:#81c784
-    style Pipeline fill:#f3e5f6,stroke:#ba68c8
 ```
 
 
