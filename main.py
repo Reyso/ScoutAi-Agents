@@ -11,8 +11,8 @@ from tasks.negotiation import create_coach_task, create_executive_task
 load_dotenv()
 
 llm = ChatOpenAI(
-    #model="gpt-4.1-nano",  
-     model= 'text-embedding-3-small',  
+    model="gpt-4.1-nano",  
+     #model= 'text-embedding-3-small',  
     temperature=0.5,
     openai_api_key=os.getenv("OPENAI_API_KEY")
 )
