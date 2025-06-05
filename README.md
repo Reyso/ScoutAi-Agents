@@ -82,7 +82,7 @@ Fluxo de Trabalho:
 
 
 
-# Fonte de dados/ Banco de dados e estrutura
+# 🛢 Fonte de dados/ Banco de dados e estrutura
 Pode conferir o banco de dados utilziado em `database\data_fute.db` desenvolvido em sqlite3.
 ### API Football Data
 - Estatísticas de desempenho
@@ -94,7 +94,7 @@ Pode conferir o banco de dados utilziado em `database\data_fute.db` desenvolvido
 
 --- 
 
-# Entrada do sistema
+# 📥 Entrada do sistema
 O parâmetro é definido na TASK `negotiation.py` tribuida ao técnico, que sugere atletas que se encaixem no perfil
 
 ```
@@ -123,8 +123,8 @@ O parâmetro é definido na TASK `negotiation.py` tribuida ao técnico, que suge
 ```
 
 
-# Saida do sistema
-Relatório Gerado (`report.md`):
+# 📤Saida do sistema
+⚠️ Veja o Relatório Final Gerado em (`report.md`)⚠️
 
 ```
 ### 🧤 Goleiro
