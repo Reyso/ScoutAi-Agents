@@ -63,7 +63,7 @@ Fluxo de Trabalho:
 
 
 # Entrada do sistema
-O parâmetros é definido na TASK `negotiation.py` tribuida ao técnico, que sugere atletas que se encaixem no perfil
+O parâmetro é definido na TASK `negotiation.py` tribuida ao técnico, que sugere atletas que se encaixem no perfil
 
 ```
 1. **Goleiro**: 
