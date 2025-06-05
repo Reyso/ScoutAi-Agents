@@ -28,19 +28,21 @@ O ScoutAI é um sistema de recomendação de jogadores que combina análise téc
 - Recomenda os jogadores que melhor atendem aos critérios dentro do orçamento disponível
 
 # 📋 Estrutura do Projeto
-```
+```bash
 ScoutAI-Agents/
+├── extract/
+│   ├── tabela_times.py # Coleta os time das ligas
+│   └── players.py      # Coleta os jogadores dos times 
 ├── agents/
-│   ├── coach.py       # AI Agents Técnico de futebol
-│   └── executive.py   # AI Agents Executivo de futebol
+│   ├── coach.py        # AI Agents Técnico de futebol
+│   └── executive.py    # AI Agents Executivo de futebol
 ├── database/
-│   └── data_fute.db   # Banco SQLite
+│   └── data_fute.db    # Banco SQLite
 ├── tools/
 │   └── database_tool.py # Tool para Consultas SQL
 ├── tasks/
 │   └── negotiation.py   # Task para os AI Agents
-└── main.py            # Pipeline principal
-
+└── main.py              # Pipeline principal
 ```
 
 
