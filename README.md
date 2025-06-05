@@ -23,6 +23,7 @@ graph LR
     B --> D[Agente Técnico]
     D -->|Critérios Táticos| E[Agente Executivo]
     E -->|Consultas Filtradas| B
+    B -->|Perfil de Jogadores| E
     E --> F[Relatório Estratégico] 
 ```
 
