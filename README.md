@@ -20,12 +20,11 @@ Projeto  desenvolvido para praticar habilidades em automação com agentes intel
 graph LR
     A[API Football Data] -->|Coleta Automatizada| B[(Banco de Dados)]
     C[Transfermarkt] -->|Coleta Manual| B
-   
+    D[Agente Técnico]
     D -->|Critérios Táticos| E[Agente Executivo]
     E -->|Consultas Filtradas| B
     E --> F[Relatório Estratégico] 
 ```
-
 
 
 O ScoutAI é um sistema de recomendação de jogadores que combina análise técnica e financeira para auxiliar clubes sul-americanos no mercado de transferências. Através de agentes IA especializados, o sistema:
