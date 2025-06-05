@@ -61,6 +61,36 @@ Fluxo de Trabalho:
 - API Football Data: Estatísticas de desempenho
 - Transfermarkt: Valores de mercado e informações complementares
 
+
+# Entrada do sistema
+O parâmetros é definido na TASK `negotiation.py` tribuida ao técnico, que sugere atletas que se encaixem no perfil
+
+```
+1. **Goleiro**: 
+   - Rating >=6.0
+   - Altura >190cm 
+   - Valor máximo: €300.000 (transferValue < 300000)
+
+2. **Zagueiro**: 
+   - Altura >=185cm
+   - Rating >5.6
+   - Gols >=1
+   - Valor máximo: €400.000 (transferValue < 400000)
+
+3. **Meia**: 
+   - Rating >6.5
+   - Cartões vermelhos <2
+   - Assistências >=2
+   - Valor máximo: €450.000 (transferValue < 450000)
+
+4. **Atacante**: 
+   - Rating >6.9
+   - Gols >3
+   - Valor máximo: €500.000 (transferValue < 500000)
+   - Idade <34 anos
+```
+
+
 # Saida do sistema
 Relatório Gerado (`report.md`):
 
