@@ -151,6 +151,6 @@ ____
 
 Para dúvida ou colaborações, sinta-se a vontade em me contatar:
 
-    Author: Reyso Teixeira
-    GitHub: [Reyso Teixeira](https://github.com/Reyso)
-    LinkedIn: [Reyso Teixeira](https://www.linkedin.com/in/reyso-teixeira/)
+- Author: Reyso Teixeira
+- GitHub: [Reyso](https://github.com/Reyso)
+- LinkedIn: [Reyso Teixeira](https://www.linkedin.com/in/reyso-teixeira/)
